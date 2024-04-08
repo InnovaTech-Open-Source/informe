@@ -197,6 +197,129 @@ Abril del 2024
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/fotointegrante1.png" alt="Eduardo Vicente Mancilla Ordaya" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Eduardo Vicente, Mancilla Ordaya
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy una persona muy interesada en la programación, considero importante el trabajo en equipo ya que al colaborar se pueden idear soluciones innovadoras y efectivas a problemáticas de la vida real. Me caracterizo por tener un pensamiento analítico , y siempre busco dar distintos puntos de vista a la hora de realizar un trabajo. Estoy comprometido en seguir aprendiendo y contribuir con mi grupoo de trabajo para llevar el proyecto de la mejor manera.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/foto integrante 2.jpg" alt=" " style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            NOMBRE Y APELLIDO
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br> 
+        CARRERA
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       COMPLETAR
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/team_i_d.png" alt=" " style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            NOMBRE Y APELLIDOS
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        CARRERA
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        COMPLETAR
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src=" " alt=" "  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            NOMBRE Y APELLIDO
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        CARRERA
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        COMPLETAR
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src=" " alt=" "  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            NOMBRE Y APELLIDO
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        CARRERA
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        COMPLETAR
+        </td>
+    </tr>
+</table>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
