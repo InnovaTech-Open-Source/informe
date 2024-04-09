@@ -501,6 +501,36 @@ Los User Personas son necesarios para la formación de este proyecto, ya que bri
 
 ### 2.3.2. User Task Matrix
 
+En esta seccion, se describen las tareas típicas que realizan los dos segmentos objetivos. Se evalúa la frecuencia y la severidad de cada tarea de los user persona, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto podría influir.
+
+**Segmento Objetivo:** Usuarios Diarios de Transporte Público en Lima
+
+|                               Tarea                               |  Frecuencia  | Severidad |
+| :---------------------------------------------------------------: | :----------: | :-------: |
+|          Planificar viajes diarios        | Casi siempre |   Alta    |
+|               Obtener información sobre transporte público            | Casi siempre |   Alta     |
+|         Minimizar tiempo de viaje        |  Casi siempre    |   Alta    |
+|              Evitar retrasos en el transporte público             |   Casi siempre  |   Alta    |
+|  Acceder a noticias locales  | A veces |   Media   |
+|    Buscar eventos locales   |   A veces    |   Media   |
+|          Acceder a descuentos locales         |   A veces    |   Media   |
+| Utilizar transporte público en horarios no laborales  |   Rara vez    |   Baja    |
+| Interactuar con la aplicación |   Casi siempre    |   Alta   |
+
+**Segmento Objetivo:** Turistas y Visitantes de Lima
+
+| Tareas                                                               | Frecuencia   | Severidad |
+| -------------------------------------------------------------------- | ------------ | --------- |
+| Acceder a rutas turísticas            | Casi siempre | Alta      |
+| Buscar atracciones locales                                | Casi siempre | Alta     |
+| Buscar recomendaciones locales                             | Casi siempre      | Alta      |
+| Utilizar transporte económico                             | Casi siempre     | Alta      |
+| Obtener información sobre transporte público             | Casi siempre     | Alta      |
+| Planificar viajes diarios              | Rara vez | Baja     |
+| Minimizar tiempo de viaje      | Rara vez     | Baja     |
+| Evitar retrasos en el transporte público       | Rara vez      | Baja      |
+| Interactuar con la aplicación | Casi siempre     | Alta      |
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
