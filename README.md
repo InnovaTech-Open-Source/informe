@@ -533,6 +533,22 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.3. User Journey Mapping
 
+**User Journey Mapping del segmento: Usuarios Diarios de Transporte Público en Lima**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/beG78Qf.png">
+
+</div>
+
+**User Journey Mapping del segmento: Turistas y Visitantes de Lima**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/eTm7Cpb.png">
+
+</div>
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
