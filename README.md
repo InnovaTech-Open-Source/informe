@@ -395,9 +395,82 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+1. **Diferenciación de Producto:**
+
+Estrategia: TrackMyRoute se enfocará en resaltar las características únicas de la aplicación, como la integración con empresas de transporte público locales y la oferta de una versión premium con funciones exclusivas.
+  <br>  <br>
+Tácticas: Para llevar a cabo esta estrategia, se implementarán campañas de marketing que destaquen estas características distintivas, utilizando mensajes claros y persuasivos para comunicar el valor añadido de la aplicación en comparación con los competidores.
+
+2. **Desarrollo Continuo:**
+
+Estrategia: La startup se comprometerá a mantenerse actualizada con las últimas tendencias y tecnologías en el mercado de movilidad urbana.
+  <br>  <br>
+Tácticas: Para lograr esto, se planificarán actualizaciones frecuentes de la aplicación para mejorar la experiencia del usuario, se agregarán nuevas características basadas en comentarios de usuarios y análisis de competidores, y se buscarán colaboraciones con empresas de transporte público para integrar nuevas funcionalidades.
+
+3. **Colaboraciones Estratégicas:**
+
+Estrategia: Se buscarán asociaciones con empresas de transporte público y otras organizaciones relacionadas con la movilidad urbana.
+  <br>  <br>
+Tácticas: Para implementar esta estrategia, la startup identificará oportunidades para colaborar con empresas de transporte público en la mejora de la infraestructura de datos, ofrecerá promociones y descuentos exclusivos para los usuarios de la aplicación en colaboración con estas empresas, y participará activamente en eventos y conferencias de la industria para establecer conexiones con otras organizaciones del sector.
+
+4. **Enfoque en la Experiencia del Usuario:**
+
+Estrategia: La prioridad será la satisfacción del usuario y la facilidad de uso de la aplicación.
+  <br>  <br>
+Tácticas: Para llevar a cabo esta estrategia, se realizarán pruebas de usuario para identificar áreas de mejora en la experiencia del usuario, se ofrecerá soporte técnico receptivo y eficiente, y se proporcionarán recursos educativos y tutoriales para ayudar a los usuarios a aprovechar al máximo la aplicación.
+
+5. **Análisis Competitivo Continuo:**
+
+Estrategia: La startup se comprometerá a monitorear de cerca las acciones y estrategias de los competidores.
+  <br>  <br>
+Tácticas: Para ejecutar esta estrategia, se realizarán análisis periódicos de la competencia para identificar nuevas oportunidades y amenazas, se seguirán de cerca las actualizaciones y lanzamientos de productos de los competidores, y se ajustará la estrategia de la startup en función de los cambios en el mercado competitivo.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
+
+**Adquisición de información general**
+
+**Segmento 1: Usuarios Diarios de Transporte Público en Lima:**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es tu ocupación?
+4. ¿Qué tan a menudo utilizas el transporte público en Lima para tus desplazamientos diarios?
+5. ¿Qué aspectos consideras más importantes al planificar tus viajes en transporte público?
+6. ¿En qué distrito resides?
+7. ¿Tienes algún dispositivo de preferencia para acceder a aplicaciones móviles?
+9. ¿Qué canales digitales utilizas con mayor frecuencia para interactuar con información relacionada con el transporte público?
+10. ¿Cuáles son tus principales objetivos al utilizar el transporte público en Lima y cuáles son las frustraciones más comunes que experimentas?
+11. ¿Qué aplicaciones o herramientas utilizas actualmente para planificar tus viajes en transporte público?
+12. ¿Qué características te gustaría ver en una aplicación de planificación de rutas de transporte público?
+13. ¿Estarías dispuesto a pagar por una versión premium de una aplicación que ofreciera características adicionales para mejorar tu experiencia de viaje en transporte público?
+14. ¿Cuáles son las funcionalidades más importantes que consideras al elegir una aplicación de transporte público?
+15. ¿Qué aspectos valoras más en términos de usabilidad y diseño de la aplicación?
+16. ¿Cómo prefieres recibir información en la aplicación: a través de notificaciones push, mensajes de texto, correos electrónicos, u otros medios?
+17. ¿Qué opiniones o comentarios tienes sobre aplicaciones similares que has utilizado previamente?
+
+**Segmento 2: Turistas y Visitantes de Lima:**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es tu ocupación?
+4. ¿Qué te trae a Lima y cuánto tiempo planeas quedarte?
+5. ¿Cuál es tu principal medio de transporte mientras estás en la ciudad?
+7. ¿Has utilizado alguna marca o servicio específico de transporte público en Lima durante tu visita?
+8. ¿Qué tipo de información buscas con más frecuencia al planificar tus desplazamientos en la ciudad?
+9 ¿Cuál es tu objetivo principal al utilizar el transporte público en Lima y cuáles son las principales frustraciones que has enfrentado como turista?
+10. ¿Podrías compartir un poco más sobre tu personalidad, habilidades o influencias que puedan influir en tus decisiones de transporte durante tu visita a Lima?
+11. ¿Qué aplicaciones o recursos utilizas actualmente para obtener información sobre el transporte público en Lima durante tu visita?
+12. ¿Qué aspectos crees que son importantes en una aplicación de planificación de rutas de transporte público para turistas?
+13. ¿Estarías dispuesto a pagar por una aplicación que te ayude a planificar tus viajes en transporte público de manera más eficiente mientras estás en Lima?
+14. ¿Qué información específica te gustaría encontrar en una aplicación de transporte público para facilitar tus desplazamientos como turista en Lima?
+15. ¿Qué características de diseño o usabilidad consideras más importantes en una aplicación de transporte público para turistas?
+16. ¿Tienes alguna experiencia previa utilizando aplicaciones similares durante tus viajes? ¿Qué te gustó o no te gustó de ellas?
+17. ¿Hay alguna función específica que crees que sería útil para los turistas en una aplicación de transporte público en Lima?
+
 
 ### 2.2.2. Registro de entrevistas
 
@@ -406,6 +479,25 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+
+Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: 
+
+**User Persona del segmento: Usuarios Diarios de Transporte Público en Lima**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/ebiHXz2.png">
+
+</div>
+
+**User Persona del segmento: Turistas y Visitantes de Lima**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/8AmUh5d.png">
+
+</div>
+<br>
 
 ### 2.3.2. User Task Matrix
 
