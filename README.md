@@ -224,7 +224,7 @@ Abril del 2024
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/foto integrante 2.jpg" alt=" " style="margin-bottom: 5px;" width="800"/>
+            <img src=" " alt=" " style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -248,7 +248,7 @@ Abril del 2024
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/team_i_d.png" alt=" " style="margin-bottom: 5px;" width="800"/>
+            <img src=" " alt=" " style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -340,6 +340,52 @@ Abril del 2024
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
+<br>
+Luego de realizar una investigación en el mercado, hemos encontrado tres proyectos que consideramos como potenciales competidores para TrackMyRoute. Estos son:
+<br><br>
+
+- **Moovit:**
+  <br>
+
+  Moovit es una aplicación de movilidad urbana que proporciona a los usuarios información sobre rutas y horarios de transporte público en tiempo real. Permite a los usuarios planificar sus viajes utilizando una variedad de opciones de transporte público, incluidos autobuses, trenes, metro y tranvías. Moovit también ofrece alertas sobre interrupciones en el servicio y actualizaciones en tiempo real para ayudar a los usuarios a navegar por la ciudad de manera eficiente.
+  <br>
+
+<div align="center">
+
+  <img src="https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage-1.png">
+
+</div>
+
+<br><br>
+
+- **Citymapper:**
+  <br>
+
+  Citymapper es una aplicación de planificación de viajes que ofrece rutas y horarios para una amplia gama de opciones de transporte en ciudades de todo el mundo. Además de proporcionar información sobre transporte público, Citymapper incluye opciones de transporte alternativo como bicicletas compartidas, scooters eléctricos y servicios de viaje compartido. La aplicación también ofrece detalles sobre tarifas, tiempo de viaje y opciones de rutas más rápidas o escénicas.
+  <br>
+
+<div align="center">
+
+  <img src="https://logovectorseek.com/wp-content/uploads/2020/11/citymapper-logo-vector.png">
+
+</div>
+
+<br><br>
+
+- **Trafi:**
+  <br>
+
+  Trafi es una aplicación de movilidad urbana que ofrece información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte, como bicicletas compartidas y servicios de viaje compartido. La aplicación utiliza datos en tiempo real para proporcionar a los usuarios actualizaciones sobre el estado del servicio, retrasos y cambios en las rutas. Trafi está disponible en varias ciudades de todo el mundo y se centra en ofrecer soluciones de movilidad integrales para sus usuarios.
+  <br>
+
+<div align="center">
+
+  <img src="https://logowik.com/content/uploads/images/trafi-20215422.logowik.com.webp">
+
+</div>
+
+<br><br>
 
 ### 2.1.1. Análisis competitivo
 
