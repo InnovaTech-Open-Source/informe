@@ -20,7 +20,7 @@ Ciclo 2024-01
 
 **StartUp Name**: InnovaTech
 
-**Producto**: 
+**Producto**:
 
 ### Team Members:
 
@@ -28,7 +28,7 @@ Ciclo 2024-01
 | :-------------------------------- | :--------: |
 |                                   |            |
 |                                   |            |
-|                                   |            |
+| Javier Sharvel Irigoyen Matos     |U20221D156  |
 | Eduardo Vicente Mancilla Ordaya   |U202018894  |
 |                                   |            |
 
@@ -55,7 +55,7 @@ Abril del 2024
 
 - **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
 
-    Link del repositorio del Informe Final: 
+    Link del repositorio del Informe Final:
 
     <br>
 
@@ -169,7 +169,7 @@ Abril del 2024
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-          
+
 ### [Conclusiones](#conclusiones)
 
 ### [Bibliografía](#bibliografía)
@@ -180,7 +180,7 @@ Abril del 2024
 
 # Student Outcome
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas       
+| Criterio específico                                                                                                                                                                   | Acciones realizadas
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -204,7 +204,7 @@ Abril del 2024
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
-            <br>            
+            <br>
             Eduardo Vicente, Mancilla Ordaya
         </td>
     </tr>
@@ -228,14 +228,14 @@ Abril del 2024
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
-            <br>            
+            <br>
             NOMBRE Y APELLIDO
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
-        <br> 
+        <br>
         CARRERA
         </td>
     </tr>
@@ -252,7 +252,7 @@ Abril del 2024
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
-            <br>            
+            <br>
             NOMBRE Y APELLIDOS
         </td>
     </tr>
@@ -272,27 +272,26 @@ Abril del 2024
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" "  style="margin-bottom: 5px;" width="800"/>
+            <img src="images/javier-foto.jpg" alt="Javier Irigoyen Matos"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
-            <br>            
-            NOMBRE Y APELLIDO
+            <br>
+            Javier Sharvel Irigoyen Matos
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
-        </td>
+        Estudié la carrera de Física en la PUCP y actualmente me encuentro en 6to ciclo en la UPC con la carrera de Ingeniería de Software. Siempre me ha interesado la ciencia y tecnología y en desarrollar aplicaciones que automaticen procesos con la ayuda de la IA. Me considero una persona optimista, responsable y autodidacta.</td>
     </tr>
     <tr align="center">
         <td rowspan="3">
@@ -300,7 +299,7 @@ Abril del 2024
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
-            <br>            
+            <br>
             NOMBRE Y APELLIDO
         </td>
     </tr>
@@ -480,7 +479,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.3.1. User Personas
 
-Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: 
+Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
 
 **User Persona del segmento: Usuarios Diarios de Transporte Público en Lima**
 
