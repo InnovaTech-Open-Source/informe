@@ -537,7 +537,7 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 <div align="center">
 
-  <img src="https://i.imgur.com/eTm7Cpb.png">
+  <img src="https://i.imgur.com/ZtwuyG4.png">
 
 </div>
 
