@@ -451,7 +451,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 15. ¿Cómo prefieres recibir información en la aplicación: a través de notificaciones push, mensajes de texto, correos electrónicos, u otros medios?
 16. ¿Qué opiniones o comentarios tienes sobre aplicaciones similares que has utilizado previamente?
 
-**Segmento 2: Turistas y Visitantes de Lima:**
+**Segmento 2: Empresas de transporte en Lima:**
 
 1. ¿Cuál es el nombre de su empresa de transporte público?
 2. ¿Cuál es su rol dentro de la empresa?
@@ -482,7 +482,7 @@ Los User Personas son necesarios para la formación de este proyecto, ya que bri
 
 </div>
 
-**User Persona del segmento: Turistas y Visitantes de Lima**
+**User Persona del segmento: Empresas de transporte en Lima**
 
 <div align="center">
 
@@ -509,19 +509,19 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 | Utilizar transporte público en horarios no laborales  |   Rara vez    |   Baja    |
 | Interactuar con la aplicación |   Casi siempre    |   Alta   |
 
-**Segmento Objetivo:** Turistas y Visitantes de Lima
+**Segmento Objetivo:** Empresas de transporte en Lima
 
 | Tareas                                                               | Frecuencia   | Severidad |
 | -------------------------------------------------------------------- | ------------ | --------- |
-| Acceder a rutas turísticas            | Casi siempre | Alta      |
-| Buscar atracciones locales                                | Casi siempre | Alta     |
-| Buscar recomendaciones locales                             | Casi siempre      | Alta      |
-| Utilizar transporte económico                             | Casi siempre     | Alta      |
-| Obtener información sobre transporte público             | Casi siempre     | Alta      |
-| Planificar viajes diarios              | Rara vez | Baja     |
-| Minimizar tiempo de viaje      | Rara vez     | Baja     |
-| Evitar retrasos en el transporte público       | Rara vez      | Baja      |
-| Interactuar con la aplicación | Casi siempre     | Alta      |
+| Registrar la empresa en la aplicación            | Una vez | Alta      |
+| Configurar y personalizar la aplicación | Rara vez | Alta     |
+| Programar rutas y horarios de los vehículos                | Casi Siempre  | Alta      |
+| Supervisar el estado y la ubicación de los vehículos        | Casi siempre     | Alta      |
+| Comunicarse con los conductores en tiempo real           | Casi siempre     | Alta      |
+| Generar informes de rendimiento y eficiencia  | Rara vez | Alta    |
+| Integrar la aplicación con sistemas de pago     | Rara vez     | Alta    |
+| Proporcionar retroalimentación sobre la aplicación     | Rara vez      | Media    |
+| Monitorear la satisfacción del cliente y gestionar quejas | Casi siempre     | Media   |
 
 ### 2.3.3. User Journey Mapping
 
@@ -533,7 +533,7 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 </div>
 
-**User Journey Mapping del segmento: Turistas y Visitantes de Lima**
+**User Journey Mapping del segmento: Empresas de transporte en Lima**
 
 <div align="center">
 
