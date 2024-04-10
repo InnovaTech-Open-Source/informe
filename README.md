@@ -441,35 +441,28 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 5. ¿Qué aspectos consideras más importantes al planificar tus viajes en transporte público?
 6. ¿En qué distrito resides?
 7. ¿Tienes algún dispositivo de preferencia para acceder a aplicaciones móviles?
-9. ¿Qué canales digitales utilizas con mayor frecuencia para interactuar con información relacionada con el transporte público?
-10. ¿Cuáles son tus principales objetivos al utilizar el transporte público en Lima y cuáles son las frustraciones más comunes que experimentas?
-11. ¿Qué aplicaciones o herramientas utilizas actualmente para planificar tus viajes en transporte público?
-12. ¿Qué características te gustaría ver en una aplicación de planificación de rutas de transporte público?
-13. ¿Estarías dispuesto a pagar por una versión premium de una aplicación que ofreciera características adicionales para mejorar tu experiencia de viaje en transporte público?
-14. ¿Cuáles son las funcionalidades más importantes que consideras al elegir una aplicación de transporte público?
-15. ¿Qué aspectos valoras más en términos de usabilidad y diseño de la aplicación?
-16. ¿Cómo prefieres recibir información en la aplicación: a través de notificaciones push, mensajes de texto, correos electrónicos, u otros medios?
-17. ¿Qué opiniones o comentarios tienes sobre aplicaciones similares que has utilizado previamente?
+8. ¿Qué canales digitales utilizas con mayor frecuencia para interactuar con información relacionada con el transporte público?
+9. ¿Cuáles son tus principales objetivos al utilizar el transporte público en Lima y cuáles son las frustraciones más comunes que experimentas?
+10. ¿Qué aplicaciones o herramientas utilizas actualmente para planificar tus viajes en transporte público?
+11. ¿Qué características te gustaría ver en una aplicación de planificación de rutas de transporte público?
+12. ¿Estarías dispuesto a pagar por una versión premium de una aplicación que ofreciera características adicionales para mejorar tu experiencia de viaje en transporte público?
+13. ¿Cuáles son las funcionalidades más importantes que consideras al elegir una aplicación de transporte público?
+14. ¿Qué aspectos valoras más en términos de usabilidad y diseño de la aplicación?
+15. ¿Cómo prefieres recibir información en la aplicación: a través de notificaciones push, mensajes de texto, correos electrónicos, u otros medios?
+16. ¿Qué opiniones o comentarios tienes sobre aplicaciones similares que has utilizado previamente?
 
 **Segmento 2: Turistas y Visitantes de Lima:**
 
-1. ¿Cómo te llamas?
-2. ¿Cuántos años tienes?
-3. ¿Cuál es tu ocupación?
-4. ¿Qué te trae a Lima y cuánto tiempo planeas quedarte?
-5. ¿Cuál es tu principal medio de transporte mientras estás en la ciudad?
-7. ¿Has utilizado alguna marca o servicio específico de transporte público en Lima durante tu visita?
-8. ¿Qué tipo de información buscas con más frecuencia al planificar tus desplazamientos en la ciudad?
-9 ¿Cuál es tu objetivo principal al utilizar el transporte público en Lima y cuáles son las principales frustraciones que has enfrentado como turista?
-10. ¿Podrías compartir un poco más sobre tu personalidad, habilidades o influencias que puedan influir en tus decisiones de transporte durante tu visita a Lima?
-11. ¿Qué aplicaciones o recursos utilizas actualmente para obtener información sobre el transporte público en Lima durante tu visita?
-12. ¿Qué aspectos crees que son importantes en una aplicación de planificación de rutas de transporte público para turistas?
-13. ¿Estarías dispuesto a pagar por una aplicación que te ayude a planificar tus viajes en transporte público de manera más eficiente mientras estás en Lima?
-14. ¿Qué información específica te gustaría encontrar en una aplicación de transporte público para facilitar tus desplazamientos como turista en Lima?
-15. ¿Qué características de diseño o usabilidad consideras más importantes en una aplicación de transporte público para turistas?
-16. ¿Tienes alguna experiencia previa utilizando aplicaciones similares durante tus viajes? ¿Qué te gustó o no te gustó de ellas?
-17. ¿Hay alguna función específica que crees que sería útil para los turistas en una aplicación de transporte público en Lima?
-
+1. ¿Cuál es el nombre de su empresa de transporte público?
+2. ¿Cuál es su rol dentro de la empresa?
+3. ¿Podría describir brevemente las principales operaciones y servicios de transporte que ofrece su empresa en Lima?
+4. ¿Qué desafíos enfrenta actualmente su empresa en términos de operaciones de transporte y atención al cliente?
+5. ¿Está su empresa utilizando alguna aplicación o plataforma tecnológica para gestionar sus servicios de transporte?
+6. ¿Qué características o funcionalidades consideraría más útiles en una aplicación destinada a empresas de transporte público como la suya?
+7. ¿Cómo cree que una aplicación de este tipo podría mejorar la eficiencia y la calidad de los servicios de transporte que ofrece su empresa?
+8. ¿Qué aspectos consideraría más importantes al evaluar y seleccionar una aplicación para su empresa?
+9. ¿Cuál sería su principal preocupación o requisito al considerar la adopción de una nueva aplicación o plataforma tecnológica para su empresa de transporte público?
+10. ¿Tiene alguna experiencia previa en la implementación o uso de aplicaciones similares en su empresa o en la industria del transporte público en general?
 
 ### 2.2.2. Registro de entrevistas
 
