@@ -26,8 +26,8 @@ Ciclo 2024-01
 
 | Member                            |    Code    |
 | :-------------------------------- | :--------: |
-|                                   |            |
-|                                   |            |
+| -      |   -         |
+| Carlos Arian Ramirez Mendoza     | U202020108 |
 | Javier Sharvel Irigoyen Matos     |U20221D156  |
 | Eduardo Vicente Mancilla Ordaya   |U202018894  |
 | Carlos Oswaldo Casimiro Fernandez |U202115412  |
@@ -36,7 +36,7 @@ Ciclo 2024-01
 
 Link al video de exposición:
 
-Abril del 2024
+**Abril del 2024**
 
 <br><br>
 
