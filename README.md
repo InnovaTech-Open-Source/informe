@@ -818,6 +818,18 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+<div align="center">
+
+  <img src="images/wireflow1.jpg">
+
+</div>
+
+<div align="center">
+
+  <img src="images/wireflow2.jpg">
+
+</div>
+
 ### 4.4.3. Web Applications Mock-ups.
 
 <div align="center">
@@ -835,6 +847,24 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 <div align="center">
 
   <img src="images/Dashboard-BuscarRutas.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-BuscarRutas-origen.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-BuscarRutas-destino.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-BuscarRutas-final.png">
 
 </div>
 
@@ -869,6 +899,19 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 </div>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
+<div align="center">
+
+  <img src="images/userflow1.jpg">
+
+</div>
+
+<div align="center">
+
+  <img src="images/userflow2.jpg">
+
+</div>
+
+
 
 ### 4.5. Web Applications Prototyping.
 
@@ -937,3 +980,5 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 **TB1:**
 
 ## Bibliografía
+
+## Anexos
