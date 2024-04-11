@@ -592,7 +592,7 @@ Los User Personas son necesarios para la formación de este proyecto, ya que bri
 
 <div align="center">
 
-  <img src="https://i.imgur.com/undefined.png">
+  <img src="https://i.imgur.com/8AmUh5d.png">
 
 </div>
 <br>
