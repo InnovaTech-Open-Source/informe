@@ -788,7 +788,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 <div align="center">
 
-  <img src="images/Wireframe-PagarPasaje.png">
+  <img src="images/WireFrame-PagarPasaje.png">
 
 </div>
 
