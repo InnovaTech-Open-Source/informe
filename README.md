@@ -240,26 +240,26 @@ Abril del 2024
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" " style="margin-bottom: 5px;" width="800"/>
+            <img src="images/arian-foto.jpg" alt="Carlos Arian Ramirez Mendoza" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            NOMBRE Y APELLIDOS
+            Carlos Arian Ramirez Mendoza
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Soy una persona muy interesada en la tecnología, programación y videojuegos, me gusta trabajar en equipo, planificar e idear proyectos y soluciones para problemáticas de la vida real. Me apasiona el mundo de las start-ups y cómo estas pueden lograr impactar en la vida de varias personas resolviendo sus necesidades. Me comprometo a dar ideas innovadoras y dar distintos puntos de vista a la hora de realizar un trabajo.
         </td>
     </tr>
     <tr align="center">
@@ -644,40 +644,241 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-
+Las guías de estilo serán los conjuntos de reglas y recomendaciones que se establecieron para estandarizar la presentación, estilo y accesibilidad de la Landing Page y Web Application.
 ### 4.1.1. General Style Guidelines.
+La paleta de colores que estamos usando en nuestra Landing Page y Web Application son los siguientes:
+div
+
+<div align="center">
+
+  <img src="images/colors.png">
+
+</div>
+
+El color principal y base de nuestra solución es el verde y sus distintas tonalidades, ya que con este color buscamos provocar en nuestros usuarios equilibrio, seguridad y tranquilidad. Buscamos la simplicidad y minimalismo para que nuestros usuarios no se sientan abrumados.
+
+Las fuentes elegidas para la Landing Page y Web Application son MuseoModerno para el logo, títulos y subtitulos ya que la tipografía simula pistas y carreteras lo cual vemos que encaja con nuestro producto, y Montserrat para los textos, contenido informativo y botones de Landing Page. 
+
+<div align="center">
+
+  <img src="images/Fonts.png">
+
+</div>
+
+Decidimos que el letter spacing será 1,15 para textos y contenido de la página y 2px para título y subtítulos para una visualización óptima de nuestros usuarios.
+
+El tono de nuestra comunicación será casual, respetuoso y sereno ya que nuestro público será en su mayoría adultos.
+
 
 ### 4.1.2. Web Style Guidelines
 
+Para el diseño de la Web Application establecemos los colores predominantes verde y blanco y la tipografía Montserrat en el 90% del diseño. Se tuvo en cuenta la simplicidad en el diseño y que sea óptimo para ejecutarse eficientemente en todos los tipos de dispositivos respetando los principios responsive y de usabilidad.
+
+También utilizamos iconos para la parte del dashboard.
+
+<div align="center">
+
+  <img src="images/Iconos.png">
+
+</div>
+
 ## 4.2. Information Architecture.
+En esta sección mostraremos el proceso de organizar, estructurar y etiquetar el contenido de la Landing Page y Web Application de Track My Route de manera que sea fácil de entender y usar para nuestros usuarios. Nos centramos en el diseño de la estructura y la navegación de sistemas de información, como sitios web, sistemas de gestión de contenido, entre otros, con el objetivo de mejorar la usabilidad y la experiencia del usuario.
 
 ### 4.2.1. Organization Systems.
+* **Forma jerarquica (visual hierarchy)**
+	
+La aplicación web de TrackMyRoute estará organizada jerarquicamente en un dashboard principal que ofrece acceso rápido a las funciones principales, incluyendo la búsqueda de rutas por ubicación y horarios en tiempo real y el pago de pasajes. En segunda instancia los usuarios podrán acceder a su historial de viajes y pagos y promociones que se brindan a los usuarios. En un último nivel de jerarquía los usuarios podrán configurar notificaciones personalizadas y gestionar su perfil de usuario, mientras que una sección de ayuda proporcionará recursos adicionales y soporte. La estructura jerárquica garantiza una navegación intuitiva y una experiencia de usuario fluida en la búsqueda y gestión de información relacionada con el transporte público.
+
+* **Organización secuencial (step-by-step to accomplish)**
+	
+La organización secuencial se aplicó en la aplicación web de TrackMyRoute en situaciones donde los usuarios necesiten completar una serie de pasos en un orden específico para lograr un objetivo. Por ejemplo, durante el proceso de registro de un nuevo usuario, se pueden guiar a través de una secuencia de pasos que incluya la creación de una cuenta, la configuración de preferencias y la aceptación de los términos y condiciones, también lo podemos ver al momento de buscar rutas y buses y al pagar pasaje por medio de la aplicación. De esta manera, la organización secuencial ayuda a simplificar y estructurar procesos complejos, facilitando la navegación y la comprensión para los usuarios.
+
+* **Organización matricial**
+
+La organización matricial se aplicó en TrackMyRoute en situaciones donde existe una variedad de categorías o dimensiones que se superponen y se relacionan entre sí. Por ejemplo lo podemos visualizar al momento de buscar buses donde se nos muestra un mapa y la información de los buses, así como filtros que podemos utilizar. También lo podemos ver en la organización visual de las promociones que se les dan a los usuarios.
 
 ### 4.2.2. Labeling Systems.
+Para facilitar el entendimiento de la aplicación para los usuarios hemos utilizado el siguiente sistema de etiquetado.
+
+| Etiqueta            | Descripción                                                                                                                                    |   
+|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| Buscar Rutas        | En esta sección se le mostrará al usuario avisos por parte de la aplicación                                                                    |  
+| Notificaciones      | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |  
+| Pagar Pasaje        | En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.         |   
+| Promociones         | En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                                     |   
+| Historial de Viajes | En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                                                           | 
+| Soporte y Ayuda     | En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                                              |  
+| Configuración       | En esta sección el usuario puede configurar sus preferencias y su perfil.                                                                      |  
+
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Los SEO tags y Meta tags son importantes porque juegan un papel fundamental en la optimización de motores de búsqueda (SEO) y en la mejora de la visibilidad y el ranking de una página web en los resultados de búsqueda. Por lo cual para optimizar la búsqueda y posicionamiento de TrackMyRoute hemos establecido lo siguiente:
+	
+* **Landing Page:**
+	Title: TrackMyRoute
+  Description: Optimiza tu viaje y libérate del estrés
+  Keywords: Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas.
+  Authors: InnovaTech
+
+* **Web Application:**
+  Title:  TrackMyRoute
+  Description: Optimiza tu viaje y libérate del estrés
+  Keywords: Autobús, Metro, Tren, Paradas, Ubicación, Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas, Buses, Seguimiento, Mapas, Transporte, Navegación, Tiempo, Notificaciones, Promociones, Pasajes, Historial.
+  Authors: InnovaTech
+
+
+
 ### 4.2.4. Searching Systems.
 
+El sistema de búsqueda en nuestra aplicación se basa en los buses y sus rutas o los paraderos en los que estos recogen pasajeros. Este sistema estará enlazada a una base de datos de buses y rutas, así como el costo de los pasajes. Por lo cual este sistema de búsqueda se visualizará en los apartados de “Buscar Rutas”, “Pagar Pasajes” y “Historial de Viajes”.
+
+
 ### 4.2.5. Navigation Systems.
+
+Los sistemas de navegación implementados en TrackMyRoute son los siguientes:
+
+Barra de navegación en la Landing Page: El usuario podrá movilizarse a través de nuestra Landing Page conociendo nuestra aplicación y propuesta de valor.
+Barra de navegación en Web Application: El usuario podrá conocer los diferentes apartados y funcionalidades de nuestra propuesta.
+Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofrecemos.
+
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
 
+<div align="center">
+
+  <img src="images/Landing-Wireframe.png">
+
+</div>
+
 ### 4.3.2. Landing Page Mock-up.
+
+<div align="center">
+
+  <img src="images/Landing-Mockup.png">
+
+</div>
+
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
+<div align="center">
+
+  <img src="images/Wireframe-Login.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-Register.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-BuscarRutas.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-PagarPasaje.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-Promos.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-HistorialdeViajes.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-SoporteyAyuda.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Wireframe-Configuracion.png">
+
+</div>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.3. Web Applications Mock-ups.
 
+<div align="center">
+
+  <img src="images/Login.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Register.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-BuscarRutas.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-PagarPasaje.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-Promos.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-HistorialdeViajes.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-SoporteyAyuda.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/Dashboard-Configuracion.png">
+
+</div>
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 ### 4.5. Web Applications Prototyping.
+
+<div align="center">
+
+  <img src="images/prototipo.png">
+
+</div>
+
+Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=3-6&t=Tc3cgQGdxXchceg5-1&scaling=scale-down-width&page-id=1%3A3&starting-point-node-id=3%3A6&mode=design
 
 ## 4.6. Domain-Driven Software Architecture.
 
