@@ -216,7 +216,7 @@ Abril del 2024
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/Captura.png" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/> 
+            <img src="images/image-2.png" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/> 
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
