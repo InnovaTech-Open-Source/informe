@@ -221,14 +221,14 @@ Abril del 2024
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            NOMBRE Y APELLIDO
+            Carlos Oswaldo, Casimiro Fernández
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        Tengo 18 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
         </td>
     </tr>
     <tr>
