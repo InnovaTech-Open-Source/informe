@@ -248,26 +248,26 @@ Abril del 2024
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" " style="margin-bottom: 5px;" width="800"/>
+            <img src="images\picprof.jpg" alt=" " style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            NOMBRE Y APELLIDOS
+            OSCAR SEBASTIAN NICOLAS MORENO CARMONA
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        INGENIERIA DE SOFTWARE
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Me encuentro estudiando Ingenieria de Software desde el 2019 y considero que cada día aprendo algo nuevo. Actualmente me encuentro trabajando como programador Jr. Por otro lado, considero que utilizaré mis habilidades de programador para crear soluciones a problematicas comunes en el país. El tema de transito vehícular es un tema muy polémico en nuestra capital. Por ello, trabajaremos en grupo implementando todo lo aprendido para proponer una solución que cumpla con los estandares éticos y valores que hemos aprendido en la universidad.
         </td>
     </tr>
     <tr align="center">
@@ -543,14 +543,49 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.4. Empathy Mapping
 
+<div align="center">
+  <img src="images\empathy.jpg">
+</div>
+
 ### 2.3.5. As-is Scenario Mapping
 
+As-is Map del Usuario
+
+<div align="center">
+  <img src="images\asismap.jpg">
+</div>
+
+<br>
+As-is Map de la Empresa
+<div align="center">
+  <img src="images\asismap2.jpg">
+</div>
 
 # Capítulo III: Requeriments Specifications
 
 ## 3.1 To-Be Scenario Mapping
 
+**To-Be Scenario Mapping**
+
+Con la herramiento del To-be scenario mapping exploramos las mejoras y las nuevas funcionalidades que se incorporarán en la aplicación “TrackMyRoute”. Estas mejoras están diseñadas para optimizar la experiencia de los usuarios al movilizarse por la ciudad de Lima en transporte público y proporcionar a la empresa de transporte una visión en tiempo real de sus clientes. A través de este proceso, visualizamos cómo la aplicación evolucionará para brindar un servicio más eficiente y útil a los dos grupos de usuarios.
+
+<div align="center">
+  <img src="images\tobemap.jpg">
+</div>
+<br>
+
+
+
 ## 3.2 User Stories
+
+En la sección de User Stories, detallaremos las diversas necesidades y requerimientos de nuestros
+usuarios y la empresa de transporte. Cada historia de usuario representará un escenario o una función
+específica que se espera que la aplicación proporcione, con el objetivo de cumplir connuestro 
+propósito principal: ayudar a las personas a navegar por la ciudad de Lima utilizando el transporte 
+público de manera eficiente y brindar a la empresa de transporte información en tiempo real sobre sus 
+clientes. A través de estas historias de usuario, podremos comprender mejor cómo la aplicación 
+satisfará las necesidades de ambas partes y proporcionará una solución integral para la movilidad
+urbana.
 
 ## 3.3 Impact Mapping
 
