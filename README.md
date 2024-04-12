@@ -287,26 +287,26 @@ Link al video de exposición:
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt=" "  style="margin-bottom: 5px;" width="800"/>
+            <img src="images/picprof.jpg" alt="OSCAR SEBASTIAN NICOLAS MORENO CARMONA"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            NOMBRE Y APELLIDO
+            OSCAR SEBASTIAN NICOLAS MORENO CARMONA
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Carrera:</b>
         <br>
-        CARRERA
+        INGENIERIA DE SOFTWARE
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        COMPLETAR
+        Me encuentro estudiando Ingenieria de Software desde el 2019 y considero que cada día aprendo algo nuevo. Actualmente me encuentro trabajando como programador Jr. Por otro lado, considero que utilizaré mis habilidades de programador para crear soluciones a problematicas comunes en el país. El tema de transito vehícular es un tema muy polémico en nuestra capital. Por ello, trabajaremos en grupo implementando todo lo aprendido para proponer una solución que cumpla con los estandares éticos y valores que hemos aprendido en la universidad.
         </td>
     </tr>
 </table>
@@ -627,14 +627,46 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.4. Empathy Mapping
 
+<div align="center">
+  <img src="images\empathy.jpg">
+</div>
+
 ### 2.3.5. As-is Scenario Mapping
 
+As-is Map del Usuario
+<div align="center">
+  <img src="images\asismap.jpg">
+</div>
+
+<br>
+
+As-is Map de la Empresa
+<div align="center">
+  <img src="images\asismap2.jpg">
+</div>
 
 # Capítulo III: Requeriments Specifications
 
 ## 3.1 To-Be Scenario Mapping
 
+Con la herramiento del To-be scenario mapping exploramos las mejoras y las nuevas funcionalidades que se incorporarán en la aplicación “TrackMyRoute”. Estas mejoras están diseñadas para optimizar la experiencia de los usuarios al movilizarse por la ciudad de Lima en transporte público y proporcionar a la empresa de transporte una visión en tiempo real de sus clientes. A través de este proceso, visualizamos cómo la aplicación evolucionará para brindar un servicio más eficiente y útil a los dos grupos de usuarios.
+
+<div align="center">
+  <img src="images\tobemap.jpg">
+</div>
+<br>
+
+
 ## 3.2 User Stories
+
+En la sección de User Stories, detallaremos las diversas necesidades y requerimientos de nuestros
+usuarios y la empresa de transporte. Cada historia de usuario representará un escenario o una función
+específica que se espera que la aplicación proporcione, con el objetivo de cumplir connuestro 
+propósito principal: ayudar a las personas a navegar por la ciudad de Lima utilizando el transporte 
+público de manera eficiente y brindar a la empresa de transporte información en tiempo real sobre sus 
+clientes. A través de estas historias de usuario, podremos comprender mejor cómo la aplicación 
+satisfará las necesidades de ambas partes y proporcionará una solución integral para la movilidad
+urbana.
 
 ## 3.3 Impact Mapping
 
@@ -1070,7 +1102,9 @@ Estrucutra de las ramas:
 
 #### 5.2.1.2. Sprint Backlog 1.
 
-| Sprint #                         | Sprint 1                                                                                 |
+| Sprint # | Sprint 1 |
+|----------|----------|
+
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
 | GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header).      | 3                  | Oscar Sebastian  | Done                                   |
@@ -1112,9 +1146,10 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. 
 <br><br>
-El link de nuestra Landing Page es el siguiente:  COMPLETAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR
+El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
 
 
 ## Conclusiones
@@ -1147,7 +1182,7 @@ El link de nuestra Landing Page es el siguiente:  COMPLETAAAAAAAAAAAAAAAAAAAAAAA
 
 <p align="justify">Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1</p>
 
-<p align="justify">Landing Page: </p>
+<p align="justify">Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/</p>
 
 <p align="justify">Entrevista 1:  </p>
 
