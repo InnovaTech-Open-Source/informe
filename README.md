@@ -26,7 +26,7 @@ Ciclo 2024-01
 
 | Member                            |    Code    |
 | :-------------------------------- | :--------: |
-| -      |   -         |
+| Oscar Sebastian Nicolas Moreno Carmona     |   U201911522        |
 | Carlos Arian Ramirez Mendoza     | U202020108 |
 | Javier Sharvel Irigoyen Matos     |U20221D156  |
 | Eduardo Vicente Mancilla Ordaya   |U202018894  |
@@ -47,6 +47,7 @@ Link al video de exposición:
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   TB1   | 05/04/2024 | |  |
+|   TB1   | 510/04/2024 | Oscar Moreno | fix: arreglo de ruta de las imagenes |
 
 
 <br><br>
