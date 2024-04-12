@@ -1179,24 +1179,21 @@ Estrucutra de las ramas:
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
 | Sprint 1 Velocity                | 5                                                                                                                                              |
-| Sum of Story Points              | 8                                                                                                                                              |
+| Sum of Story Points              | 21                                                                                                                                              |
 
 #### 5.2.1.2. Sprint Backlog 1.
 
-| Sprint # | Sprint 1 |
-|----------|----------|
-
-| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
-| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header).      | 3                  | Oscar Sebastian  | Done                                   |
-| GW02 | Apartado del Footer    | G02 | Footer  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer).    | 2                  | Javier Sharvel | To-do                                   |
-| GW03 | Sección Principal          | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo de la sección correspondiente.           | 3                  | Oscar Sebastian   | Done                                   |
-| GW04 | Sección Beneficios    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección.    | 2                  | Carlos Arian  | Done                                   |
-| GW05 | Sección Aliados           | G05 | Sección "Aliados"(Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  |  Carlos Arian | Done                                 |
-| GW06 | Sección Comentario Usuarios | G06 | Sección Comentarios (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la sección.   | 3                  | Carlos Oswaldo  | InProcess                                  |
-| GW07 | Seccion Planes     | G07 | Sección Planes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.   | 3                  | Eduardo Mancilla | Done                                   |
-| GW08 | Seccion Preguntas Frecuentes     | G08 | Sección Preguntas Frecuentes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  | Carlos Oswaldo | Done                                   |
-| GW08 | Interfaz Responsive    | G09 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Javier Sharvel   | To-do                           |
+|**Sprint #**|**Sprint 1**| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|**User Story**| |**Task**| | | | | |
+|id|Title|Id|Title|Description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU24|Sección principal de landing page|T001|Desarrollo de Header|Desarrollo e implementación de los estilos que corresponden al encabezado (Header).|3|Oscar Sebastian|Done|
+|HU25|Información de beneficios|T002|Desarrollo de Footer|Desarrollo e implementación de los estilos que corresponden a la sección de beneficios de la app|2|Carlos Arian|To-do|
+|HU26|Conocer los aliados que respaldan la app|T003|Desarrollo de sección de aliados de la app.|Desarrollo e implementación de los estilos que corresponden a la seccion de aliados de la app con HTML/CSS/JS|3|Oscar Sebastian|Done|
+|HU27|Reseñas de usuarios satisfechos|T004|Desarrollo de sección de reseñas de usuarios de la app|Desarrollo e implementación de los estilos que corresponden a la seccion reseñas con HTML/CSS/JS|2|Javier Sharveln|Done|
+|HU28|Conocer los planes de suscripción|T005|Desarrollo de sección de planes de suscripción|Desarrollo e implementación de los estilos que corresponden a la seccion de los planes de suscripción con HTML/CSS/JS|3|Carlos Arian|Done|
+|HU29|Obtener respuestas a preguntas frecuentes|T006|Desarrollo de sección de preguntas frecuentes|Desarrollo e implementación de los estilos que corresponden a la seccion de preguntas frecuentes con HTML/CSS/JS|3|Carlos Oswaldo|InProcess|
+|HU30|Diseño responsive de Landing Page.|T007|Desarrollo responsive de la Landing Page|Implementación de prácticas y elementos responsive para la adaptabilidad de la Landing Page para diferentes dispositivos.|3|Eduardo Mancilla|Done|
 
 <div align="center">
 
@@ -1226,7 +1223,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. 
-<br><br>
+
 El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
