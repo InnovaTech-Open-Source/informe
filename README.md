@@ -560,6 +560,36 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 
+**Segmento: Usuarios Diarios de Transporte Público en Lima**
+
+
+
+
+**Segmento: Empresas de transporte en Lima**
+
+**Entrevista 01**
+
+Entrevistado 1:
+
+Nombre y apellidos: Steffi Villena
+
+Edad: 26 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/N1Qf52w.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 06:10
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
+
+**Resumen de la entrevista:**
+Nuestra entrevistada fue Steffi Villena, que a través de contactos familiares trabaja en una empresa de transportes en el area de Contabilidad, sus primeras impresiones son un poco desalentadoras hacia nuestra idea pero aún así llegamos a la conclusión que este usuario daría el intento de usar nuestra idea de aplicación, opina que ha probado diversas aplicaciones pero no con mucho exito ya que no le llamaron mucho la atención.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
