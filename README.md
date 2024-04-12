@@ -1093,7 +1093,11 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+<div align="center">
 
+  <img src="./images/diagrama_database.png">
+
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
