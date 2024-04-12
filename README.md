@@ -1095,8 +1095,8 @@ Link del trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page | feature/PlansSection (then develop) | cb7812d   | feat: Plans Section | -                   | 12/04/2024         |
-| landing-page | feature/seccion-preguntasfrecuentes                    | 29f75eb  | feature: Preguntas Frecuentes      | -                   | 12/04/2024         |
+| TrackMyRoute_Landing | feature/PlansSection (then develop) | cb7812d   | feat: Plans Section | -                   | 12/04/2024         |
+|TrackMyRoute_Landing | feature/seccion-preguntasfrecuentes                    | 29f75eb  | feature: Preguntas Frecuentes      | -                   | 12/04/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
@@ -1110,6 +1110,10 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. 
+<br><br>
+El link de nuestra Landing Page es el siguiente:  COMPLETAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 
@@ -1117,6 +1121,38 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 **TB1:**
 
+- Mediante el análisis de competidores, hemos obtenido una visión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha brindado una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.<br><br>
+
+- Para el desarrollo de nuestra aplicación, hemos empleado una amplia gama de herramientas, como user personas, empathy maps, user journey maps, análisis as-is y to-be, product backlog, así como la creación de diagramas y diseños de base de datos, entre otras. Esta exhaustiva metodología de trabajo garantiza que nuestra aplicación esté diseñada de manera óptima y alineada con las expectativas de nuestros usuarios.<br><br>
+
+- Las entrevistas con los usuarios desempeñaron un papel fundamental en nuestra investigación. Estas conversaciones directas nos proporcionaron una comprensión profunda de las verdaderas necesidades de nuestros usuarios, lo que nos permitió abordarlas de manera efectiva a través de nuestra propuesta. Las voces de los usuarios han sido el motor impulsor de nuestro proceso de desarrollo.<br><br>
+
+- La primera entrega del proyecto no solo nos permitió presentar soluciones iniciales, sino que también nos brindó la oportunidad de explorar diversas alternativas para abordar nuestra problemática. Fue un momento de reflexión en el que buscamos satisfacer las necesidades de nuestros segmentos objetivo de manera innovadora y efectiva.<br><br>
+
+- A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
+
+
 ## Bibliografía
 
+<p>Google. (s.f.). Material design guidelines. Recuperado de https://material.io/design</p>
+<p>INEI. (2020). Encuesta Nacional de Hogares: Módulo de Transporte. Instituto Nacional de Estadística e Informática. Lima, Perú.</p>
+<p>MDN Web Docs. (s.f.). HTML: Hypertext Markup Language. Recuperado de https://developer.mozilla.org/en-US/docs/Web/HTML</p>
+<p>MDN Web Docs. (s.f.). CSS: Cascading Style Sheets. Recuperado de https://developer.mozilla.org/en-US/docs/Web/CSS</p>
+
 ## Anexos
+
+<p align="justify">Landing Page Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0</p>
+
+<p align="justify">Wireframes y Mockups Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0</p>
+
+<p align="justify">Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1</p>
+
+<p align="justify">Landing Page: </p>
+
+<p align="justify">Entrevista 1:  </p>
+
+<p align="justify">Entrevista 2:  </p>
+
+<p align="justify">Entrevista 3: </p>
+
+<p align="justify">Video TB1: </p>
