@@ -184,8 +184,8 @@ Abril del 2024
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1  | TB1
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1                                                                                                                                                                                                | TB1 |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>- Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista. <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. - Carlos Arian Ramirez Mendoza: <br> Se realizó el diseño de la Landing Page y Web Aplication, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute. <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se diseñaron la Landing Page y la Web Application, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, ademas de realizar las secciones que mencionan el propósito y alcance del proyecto. | TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
 
 <br><br>
 
@@ -473,6 +473,36 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 
+**Segmento: Usuarios Diarios de Transporte Público en Lima**
+
+
+
+
+**Segmento: Empresas de transporte en Lima**
+
+**Entrevista 01**
+
+Entrevistado 1:
+
+Nombre y apellidos: Steffi Villena
+
+Edad: 26 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/N1Qf52w.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 06:10
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
+
+**Resumen de la entrevista:**
+Nuestra entrevistada fue Steffi Villena, que a través de contactos familiares trabaja en una empresa de transportes en el area de Contabilidad, sus primeras impresiones son un poco desalentadoras hacia nuestra idea pero aún así llegamos a la conclusión que este usuario daría el intento de usar nuestra idea de aplicación, opina que ha probado diversas aplicaciones pero no con mucho exito ya que no le llamaron mucho la atención.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -619,7 +649,11 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+<div align="center">
 
+  <img src="./images/diagrama_database.png">
+
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
