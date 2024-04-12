@@ -1042,10 +1042,10 @@ Estrucutra de las ramas:
 - Paso uno: Asegurarnos de que el repositorio de GitHub contenga todos los archivos necesarios para el sitio web.
 
 - Paso dos: Ir a la configuración del repositorio en GitHub y habilitar GitHub Pages, seleccionando la rama principal (main) y la carpeta desde la que se desea publicar el sitio web.
-  <img align="center" src="images/desplieguelandinginicio.png" alt="Configuracion Github Actions" width="90%">
+  <img align="center" src="images/desplieguelandinginicio.PNG" alt="Configuracion Github Actions" width="90%">
 
 - Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
-  <img align="center" src="images/desplieguelandingfinal.png" alt="Despliegue en Github Pages" width="90%">
+  <img align="center" src="images/desplieguefinal.PNG" alt="Despliegue en Github Pages" width="90%">
   
 ## 5.2. Landing Page, Services & Applications Implementation.
 
