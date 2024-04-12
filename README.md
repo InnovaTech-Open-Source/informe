@@ -980,6 +980,24 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 5.1.2. Source Code Management.
 
+Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en un organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
+
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: https://github.com/InnovaTech-Open-Source
+- Link de la landing page: https://github.com/InnovaTech-Open-Source/TrackMyRoute_Landing
+- Link del informe: https://github.com/InnovaTech-Open-Source/informe
+- Link del front end: https://github.com/InnovaTech-Open-Source/track-my-route
+- Link del back end: https://github.com/InnovaTech-Open-Source/backend-track-my-route
+
+Estrucutra de las ramas:
+
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 ### 5.1.4. Software Deployment Configuration.
