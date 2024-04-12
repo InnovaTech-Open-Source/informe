@@ -1053,7 +1053,35 @@ Estrucutra de las ramas:
 
 #### 5.2.1.1. Sprint Planning 1.
 
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 06/04/2024                                                                                                                                      |
+| Time                             | 17:00 horas                                                                                                                                          |
+| Location                         | Reunión realizada mediante Google Meet                                                                                                              |
+| Prepared By                      | Mancilla Ordaya, Eduardo Vicente                                                                                                               |
+| Attendees (to planning meeting) | Ramirez Mendoza, Carlos Arian/Casimiro Fernandez, Carlos Oswaldo /Mancilla Ordaya, Eduardo Vicente/Irigoyen Matos, Javier Sharvel/Moreno Carmona, Oscar Sebastian |
+| Sprint n - 1 Review              | Se creará la organización de InnovaTech en Github y el repositorio de la organización. Además, se implementará el single page landing page.    |
+| Sprint n – 1 Retrospective       | La implementación para el landing se ha realizado mediante html y css. |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
+| Sprint 1 Velocity                | 5                                                                                                                                              |
+| Sum of Story Points              | 8                                                                                                                                              |
+
 #### 5.2.1.2. Sprint Backlog 1.
+
+| Sprint #                         | Sprint 1                                                                                 |
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GW01 | Apartado del Header    | G01 | Header  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header).      | 3                  | Oscar Sebastian  | Done                                   |
+| GW02 | Apartado del Footer    | G02 | Footer  (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer).    | 2                  | Javier Sharvel | To-do                                   |
+| GW03 | Sección Principal          | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo de la sección correspondiente.           | 3                  | Oscar Sebastian   | Done                                   |
+| GW04 | Sección Beneficios    | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección.    | 2                  | Carlos Arian  | Done                                   |
+| GW05 | Sección Aliados           | G05 | Sección "Aliados"(Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  |  Carlos Arian | Done                                 |
+| GW06 | Sección Comentario Usuarios | G06 | Sección Comentarios (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la sección.   | 3                  | Carlos Oswaldo  | InProcess                                  |
+| GW07 | Seccion Planes     | G07 | Sección Planes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.   | 3                  | Eduardo Mancilla | Done                                   |
+| GW07 | Seccion Preguntas Frecuentes     | G08 | Sección Preguntas Frecuentes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  | Carlos Oswaldo | Done                                   |
+| GW08 | Interfaz Responsive    | G09 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Javier Sharvel   | To-do                           |
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
