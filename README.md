@@ -600,7 +600,7 @@ Edad: 24 años
 Ubicación: Lima
 
 Evidencia de la reunión:
-<img src="https://i.imgur.com/a/ry5mUDq/.jpg" alt="Canvas" width="90%">
+<img src="https://i.imgur.com/qDT7b2Y.jpg" alt="Canvas" width="90%">
 
 Inicio: 00:04
 
