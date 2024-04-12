@@ -1093,11 +1093,20 @@ Link del trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page | feature/PlansSection (then develop) | cb7812d   | feat: Plans Section | -                   | 12/04/2024         |
+| landing-page | feature/seccion-preguntasfrecuentes                    | 29f75eb  | feature: Preguntas Frecuentes      | -                   | 12/04/2024         |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
