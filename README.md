@@ -1080,8 +1080,16 @@ Estrucutra de las ramas:
 | GW05 | Sección Aliados           | G05 | Sección "Aliados"(Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  |  Carlos Arian | Done                                 |
 | GW06 | Sección Comentario Usuarios | G06 | Sección Comentarios (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la sección.   | 3                  | Carlos Oswaldo  | InProcess                                  |
 | GW07 | Seccion Planes     | G07 | Sección Planes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.   | 3                  | Eduardo Mancilla | Done                                   |
-| GW07 | Seccion Preguntas Frecuentes     | G08 | Sección Preguntas Frecuentes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  | Carlos Oswaldo | Done                                   |
+| GW08 | Seccion Preguntas Frecuentes     | G08 | Sección Preguntas Frecuentes(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la sección.    | 3                  | Carlos Oswaldo | Done                                   |
 | GW08 | Interfaz Responsive    | G09 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Javier Sharvel   | To-do                           |
+
+<div align="center">
+
+  <img src="images/trellosprint1.PNG">
+
+</div>
+
+Link del trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
