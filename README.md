@@ -45,8 +45,8 @@ Ciclo 2024-01
 
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 05/04/2024 | |  |
-|   TB1   | 510/04/2024 | Oscar Moreno | fix: arreglo de ruta de las imagenes |
+|   TB1   | 05/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  CAPITULO I AL V|
+
 
 
 <br><br>
