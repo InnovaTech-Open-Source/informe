@@ -25,8 +25,8 @@ Ciclo 2024-01
 ### Team Members:
 
 | Member                            |    Code    |
-| :-------------------------------- | :--------: |
-| OSCAR SEBASTIAN NICOLAS MORENO CARMONA   |   -         |
+| :----------------|---------------- | 
+| Oscar Sebastian Nicolas Moreno Carmona     |   U201911522        |
 | Carlos Arian Ramirez Mendoza     | U202020108 |
 | Javier Sharvel Irigoyen Matos     |U20221D156  |
 | Eduardo Vicente Mancilla Ordaya   |U202018894  |
@@ -34,7 +34,7 @@ Ciclo 2024-01
 
 <br>
 
-Link al video de exposición:
+Link al video de exposición: 
 
 **Abril del 2024**
 
@@ -47,6 +47,7 @@ Link al video de exposición:
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   TB1   | 05/04/2024 | |  |
+|   TB1   | 510/04/2024 | Oscar Moreno | fix: arreglo de ruta de las imagenes |
 
 
 <br><br>
@@ -68,8 +69,27 @@ Link al video de exposición:
     - Capítulo V: Product Implementation, Validation & Deployment
 
 
-<br>
+<div align="center">
 
+  <img src="images/report_insight1.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/report_insight2.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/report_insight3.png">
+
+</div>
+
+
+<br>
+<hr>
 <br><br>
 
 # Contenido
@@ -86,7 +106,17 @@ Link al video de exposición:
 
 ### [Capítulo I: Introducción](#capítulo-i-introducción)
 
-
+- [1.1. Startup Profile](#11-startup-profile)
+  - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 
@@ -166,16 +196,21 @@ Link al video de exposición:
 
 ### [Anexos](#anexos)
 
-<br><br>
+<br>
+<hr>
 
 # Student Outcome
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas
+
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<<<<<<< HEAD
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br>|
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se realizó el diseño de la Landing Page y Web Aplication, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute| TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
+=======
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>- Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista. <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br>Oscar Sebastian Moreno Carmona<br> - Se propuso ideas para el desarrollo del proyecto, se investigó posibles diseños, reglas para el desarrollo y tambien requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se diseñaron la Landing Page y la Web Application, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, ademas de realizar las secciones que mencionan el propósito y alcance del proyecto. | TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
 
 <br><br>
 
@@ -185,7 +220,7 @@ Link al video de exposición:
 
 ### 1.1.1. Description de la StartUp
 
-"TrackMyRoute" es una startup con la principal intención de transformar la forma en que las personas se desplazan por la ciudad utilizando el transporte público. Nuestra misión es simplificar y mejorar la movilidad urbana, ofreciendo a los residentes de Lima una aplicación integral que les permita encontrar las mejores rutas de transporte público para llegar a sus destinos de manera eficiente. Nuestra aplicación no solo brinda a los usuarios la capacidad de planificar sus viajes de manera óptima, sino que también proporciona información en tiempo real sobre el estado de las rutas y la disponibilidad de los medios de transporte. Además, colaboramos estrechamente con las empresas de transporte público para que también puedan beneficiarse de esta plataforma, obteniendo una visión en tiempo real de sus clientes y mejorando la calidad de sus servicios. 
+"TrackMyRoute" es una startup con la principal intención de transformar la forma en que las personas se desplazan por la ciudad utilizando el transporte público. Nuestra misión es simplificar y mejorar la movilidad urbana, ofreciendo a los residentes de Lima una aplicación integral que les permita encontrar las mejores rutas de transporte público para llegar a sus destinos de manera eficiente. Nuestra aplicación no solo brinda a los usuarios la capacidad de planificar sus viajes de manera óptima, sino que también proporciona información en tiempo real sobre el estado de las rutas y la disponibilidad de los medios de transporte. Además, colaboramos estrechamente con las empresas de transporte público para que también puedan beneficiarse de esta plataforma, obteniendo una visión en tiempo real de sus clientes y mejorando la calidad de sus servicios.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -216,7 +251,7 @@ Link al video de exposición:
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/Captura.PNG" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/> 
+            <img src="images/Captura.PNG" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -313,25 +348,25 @@ Link al video de exposición:
 
 ## 1.2. Solution Profile
 
-En esta sección iniciaremos por un análisis de los antecedentes y problemática sobre la movilización en transporte público para identificar las raíces del problema e identificar algunas necesidades que se deban cubrir para llegar a una solución de la problemática. Asimismo, luego pasaremos por el proceso UX para poder analizar más a detalle la problemática y poder plantear una hipótesis acerca de la problemática. 
+En esta sección iniciaremos por un análisis de los antecedentes y problemática sobre la movilización en transporte público para identificar las raíces del problema e identificar algunas necesidades que se deban cubrir para llegar a una solución de la problemática. Asimismo, luego pasaremos por el proceso UX para poder analizar más a detalle la problemática y poder plantear una hipótesis acerca de la problemática.
 
 ### 1.2.1. Antecedentes y problemática
 
 La movilización en transportes públicos en Lima, se ha visto influenciada por una serie de antecedentes y problemáticas a lo largo de su historia. En un contexto de rápido crecimiento poblacional y urbano, la demanda de servicios de transporte público ha ido en constante aumento. Sin embargo, varios factores han contribuido a desafiar la eficiencia y la calidad de la movilización en la ciudad. Históricamente, Lima contaba con sistemas de transporte público, como los tranvías, en el siglo XIX. Sin embargo, la falta de inversión y una planificación inadecuada llevaron al declive y eventual desaparición de estos sistemas en la segunda mitad del siglo XX. Entre las problemáticas más apremiantes se destaca la congestión del tráfico, que afecta de manera significativa a los limeños. El aumento de vehículos particulares y la infraestructura inadecuada han resultado en largos tiempos de viaje y congestión constante en las calles de la ciudad. Asimismo, el transporte público en Lima ha enfrentado dificultades, desde deficiencias en infraestructura y falta de mantenimiento hasta servicios ineficientes. Los usuarios a menudo se ven obligados a utilizar autobuses y combis en condiciones precarias, lo que afecta negativamente su experiencia de viaje. La seguridad en el transporte público también ha sido motivo de preocupación, con incidentes de robos y acoso a los pasajeros. Esto ha generado inquietudes sobre la seguridad de los usuarios en el sistema. Además, las tarifas de transporte público pueden resultar onerosas para personas de bajos ingresos, y la falta de accesibilidad adecuada para personas con discapacidad ha sido una preocupación persistente. A pesar de estos desafíos, el gobierno y las autoridades locales han implementado medidas para mejorar el transporte público en Lima, incluyendo la introducción de sistemas de transporte masivo como el Metropolitano y el Tren Eléctrico, así como esfuerzos para combatir la informalidad y elevar la calidad del servicio. Sin embargo, los retos siguen siendo considerables en una ciudad en constante crecimiento y transformación.
 
 ¿Qué?: La movilización en transportes públicos en Lima se refiere al desplazamiento de personas dentro de la ciudad utilizando medios de transporte público, como autobuses, combis, el Metropolitano (un sistema de buses de tránsito rápido) y el Tren Eléctrico. Esto incluye viajes diarios para trabajar, estudiar y realizar actividades cotidianas.
- 
-¿Quién?: Los usuarios del transporte público en Lima, que incluyen a residentes locales y visitantes de la ciudad, son los principales actores de esta movilización. Además, las autoridades gubernamentales y las empresas de transporte público desempeñan un papel importante en la gestión y regulación de estos servicios. 
 
-¿Por qué?: Las personas utilizan el transporte público en Lima por varias razones, incluyendo la congestión del tráfico, la falta de estacionamiento, la necesidad de una opción de movilidad asequible y la preocupación por el medio ambiente. Además, muchas personas no tienen acceso a un automóvil personal y dependen del transporte público para sus desplazamientos diarios. 
+¿Quién?: Los usuarios del transporte público en Lima, que incluyen a residentes locales y visitantes de la ciudad, son los principales actores de esta movilización. Además, las autoridades gubernamentales y las empresas de transporte público desempeñan un papel importante en la gestión y regulación de estos servicios.
 
-¿Dónde?: Esta movilización se lleva a cabo en toda la ciudad de Lima, que incluye el centro histórico, los distritos periféricos y las áreas metropolitanas circundantes. Los usuarios se desplazan tanto dentro de la ciudad como hacia y desde los suburbios. 
+¿Por qué?: Las personas utilizan el transporte público en Lima por varias razones, incluyendo la congestión del tráfico, la falta de estacionamiento, la necesidad de una opción de movilidad asequible y la preocupación por el medio ambiente. Además, muchas personas no tienen acceso a un automóvil personal y dependen del transporte público para sus desplazamientos diarios.
 
-¿Cuándo?: La movilización en transportes públicos en Lima ocurre todos los días, durante todas las horas del día, ya que es esencial para las actividades diarias de la población. Los horarios varían según la ruta y el tipo de transporte. 
+¿Dónde?: Esta movilización se lleva a cabo en toda la ciudad de Lima, que incluye el centro histórico, los distritos periféricos y las áreas metropolitanas circundantes. Los usuarios se desplazan tanto dentro de la ciudad como hacia y desde los suburbios.
 
-¿Cómo?: Los usuarios pueden acceder al transporte público en Lima a través de una red de paraderos y estaciones que sirven a diferentes rutas y servicios. Los sistemas de transporte masivo, como el Metropolitano y el Tren Eléctrico, ofrecen tarjetas de acceso y estaciones específicas para abordar. Los autobuses y combis tienen paraderos designados en las calles 
+¿Cuándo?: La movilización en transportes públicos en Lima ocurre todos los días, durante todas las horas del día, ya que es esencial para las actividades diarias de la población. Los horarios varían según la ruta y el tipo de transporte.
 
-¿Cuánto?: El costo de utilizar el transporte público en Lima varía según el tipo de servicio y la distancia recorrida. Los precios de los boletos pueden oscilar desde unos pocos centavos hasta varios soles peruanos, dependiendo de la ruta y el sistema de transporte. Los usuarios a menudo pueden optar por tarifas con descuento si utilizan tarjetas de prepago o si son estudiantes o adultos mayores. 
+¿Cómo?: Los usuarios pueden acceder al transporte público en Lima a través de una red de paraderos y estaciones que sirven a diferentes rutas y servicios. Los sistemas de transporte masivo, como el Metropolitano y el Tren Eléctrico, ofrecen tarjetas de acceso y estaciones específicas para abordar. Los autobuses y combis tienen paraderos designados en las calles
+
+¿Cuánto?: El costo de utilizar el transporte público en Lima varía según el tipo de servicio y la distancia recorrida. Los precios de los boletos pueden oscilar desde unos pocos centavos hasta varios soles peruanos, dependiendo de la ruta y el sistema de transporte. Los usuarios a menudo pueden optar por tarifas con descuento si utilizan tarjetas de prepago o si son estudiantes o adultos mayores.
 
 Conclusiones de las 5W y 2H: En conclusión, la movilización en transportes públicos en Lima, Perú, es una parte fundamental de la vida cotidiana de sus residentes y visitantes. Este sistema de transporte es utilizado por una amplia variedad de personas que dependen de él para desplazarse por la ciudad debido a la congestión del tráfico, la falta de estacionamiento y la necesidad de opciones de movilidad asequibles. A pesar de las numerosas problemáticas, como la congestión, la seguridad y la falta de inversión en infraestructura, el transporte público sigue siendo esencial para mantener la movilidad en una ciudad en constante crecimiento y transformación. Los esfuerzos de las autoridades locales y gubernamentales, como la implementación de sistemas de transporte masivo y la regulación del sector, son pasos importantes hacia la mejora de la movilización en Lima.
 
@@ -343,62 +378,62 @@ El propósito de TrackMyRoute es ayudar a las personas a planificar y realizar v
 
 #### 1.2.2.2. Lean UX Assumptions
 
-User Assumptions 
+User Assumptions
 
 I. ¿Quién es el usuario? TrackMyRoute está dirigido a cualquier persona que utilice el transporte público en la ciudad de Lima. Esto puede incluir a estudiantes, trabajadores, viajeros y cualquier otra persona que necesite planificar un viaje en transporte público. Además es útil para turistas y visitantes que no están familiarizados con el sistema de transporte público local y que necesitan ayuda para planificar sus viajes.
 
-II. ¿Dónde encaja nuestro producto en su trabajo o vida? 
+II. ¿Dónde encaja nuestro producto en su trabajo o vida?
 
 Nuestro servicio encaja para los residentes de Lima, que dependen en gran medida del transporte público para sus desplazamientos diarios, "TrackMyRoute" puede ser una herramienta esencial. Les permite encontrar la mejor ruta de transporte público para llegar a su destino de manera eficiente, ahorrando tiempo y minimizando la incertidumbre en sus viajes. Esto se traduce en una mayor comodidad y productividad en su vida cotidiana.
 
-III. ¿Qué problemas tiene nuestro producto? ¿Evitar? 
+III. ¿Qué problemas tiene nuestro producto? ¿Evitar?
 
 La precisión de la información en tiempo real es fundamental para la efectividad de la aplicación. Los datos incorrectos pueden llevar a los usuarios por rutas equivocadas y generar frustración. Además, al recopilar datos de ubicación en tiempo real, es crucial garantizar la privacidad y seguridad de los usuarios. Es por ello que debemos evitar problemas de seguridad, como la exposición de datos sensibles o la posibilidad de rastreo no autorizado.
 
-IV. ¿Cuándo y cómo es nuestro producto? ¿Usado? 
+IV. ¿Cuándo y cómo es nuestro producto? ¿Usado?
 
-Nuestro servicio podrá ser utilizado a través de dispositivos móviles, como teléfonos inteligentes o tabletas. Los usuarios pueden descargar la aplicación desde tiendas de aplicaciones móviles, como la App Store o Google Play, e instalarla en sus dispositivos. Luego, ingresan su ubicación actual y destino, y la aplicación proporciona información sobre las rutas disponibles, tiempos de viaje estimados y actualizaciones en tiempo real sobre la ubicación de los vehículos de transporte público. Esto permite a los usuarios tomar decisiones informadas sobre la mejor manera de llegar a su destino utilizando el transporte público en Lima. 
+Nuestro servicio podrá ser utilizado a través de dispositivos móviles, como teléfonos inteligentes o tabletas. Los usuarios pueden descargar la aplicación desde tiendas de aplicaciones móviles, como la App Store o Google Play, e instalarla en sus dispositivos. Luego, ingresan su ubicación actual y destino, y la aplicación proporciona información sobre las rutas disponibles, tiempos de viaje estimados y actualizaciones en tiempo real sobre la ubicación de los vehículos de transporte público. Esto permite a los usuarios tomar decisiones informadas sobre la mejor manera de llegar a su destino utilizando el transporte público en Lima.
 
-V. ¿Qué características son importantes? 
+V. ¿Qué características son importantes?
 
-“TrackMyRoute" es una aplicación esencial para los usuarios de transporte público en Lima, ofreciendo una amplia gama de características cruciales, como la búsqueda de rutas, información en tiempo real sobre el transporte, notificaciones y alertas, mapas interactivos, detalles de tarifas y opciones de pago, comentarios de usuarios, historial de viajes, accesibilidad y medidas de seguridad, todo ello respaldado por una colaboración efectiva con las empresas de transporte. Esta aplicación mejora la experiencia de viaje al ayudar a los usuarios a planificar y seguir sus rutas de manera eficiente, brindando un servicio completo y personalizado que facilita la movilidad en la ciudad de Lima. 
+“TrackMyRoute" es una aplicación esencial para los usuarios de transporte público en Lima, ofreciendo una amplia gama de características cruciales, como la búsqueda de rutas, información en tiempo real sobre el transporte, notificaciones y alertas, mapas interactivos, detalles de tarifas y opciones de pago, comentarios de usuarios, historial de viajes, accesibilidad y medidas de seguridad, todo ello respaldado por una colaboración efectiva con las empresas de transporte. Esta aplicación mejora la experiencia de viaje al ayudar a los usuarios a planificar y seguir sus rutas de manera eficiente, brindando un servicio completo y personalizado que facilita la movilidad en la ciudad de Lima.
 
-VI. ¿Cómo debe verse nuestro producto y cómo comportarse? 
+VI. ¿Cómo debe verse nuestro producto y cómo comportarse?
 
-Nuestra plataforma tiene que interactuar con los usuarios mediante un diseño llamativo e intuitivo con la finalidad de que nuestros usuarios confíen en nosotros y tengan facilidad de lograr sus objetivos al usar la plataforma. 
+Nuestra plataforma tiene que interactuar con los usuarios mediante un diseño llamativo e intuitivo con la finalidad de que nuestros usuarios confíen en nosotros y tengan facilidad de lograr sus objetivos al usar la plataforma.
 
-Business Assumptions 
+Business Assumptions
 
-1. Demanda de Usuarios: Suponemos que existe una demanda significativa de una aplicación de planificación de rutas de transporte público en Lima, ya que muchas personas utilizan el transporte público en la ciudad y buscan formas de optimizar sus viajes. 
-2. Colaboración con Empresas de Transporte: Suponemos que las empresas de transporte público en Lima estarán dispuestas a colaborar y proporcionar datos actualizados sobre sus rutas y vehículos para integrarlos en nuestra aplicación. 
+1. Demanda de Usuarios: Suponemos que existe una demanda significativa de una aplicación de planificación de rutas de transporte público en Lima, ya que muchas personas utilizan el transporte público en la ciudad y buscan formas de optimizar sus viajes.
+2. Colaboración con Empresas de Transporte: Suponemos que las empresas de transporte público en Lima estarán dispuestas a colaborar y proporcionar datos actualizados sobre sus rutas y vehículos para integrarlos en nuestra aplicación.
 
-3. Disponibilidad de Datos en Tiempo Real: Suponemos que podemos acceder a datos en tiempo real de los sistemas de transporte público, lo que nos permitirá proporcionar información precisa sobre la ubicación y el estado de los vehículos. 
+3. Disponibilidad de Datos en Tiempo Real: Suponemos que podemos acceder a datos en tiempo real de los sistemas de transporte público, lo que nos permitirá proporcionar información precisa sobre la ubicación y el estado de los vehículos.
 
-4. Aceptación de Tecnología: Suponemos que la población de Lima está dispuesta a adoptar y utilizar aplicaciones móviles para planificar sus viajes en transporte público, y que cuentan con los dispositivos y la conectividad necesarios. 
+4. Aceptación de Tecnología: Suponemos que la población de Lima está dispuesta a adoptar y utilizar aplicaciones móviles para planificar sus viajes en transporte público, y que cuentan con los dispositivos y la conectividad necesarios.
 
-5. Monetización: Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación, la venta de boletos de transporte o la suscripción premium para características adicionales. 
+5. Monetización: Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación, la venta de boletos de transporte o la suscripción premium para características adicionales.
 
-6. Seguridad de Datos: Suponemos que podemos garantizar la seguridad y privacidad de los datos personales de los usuarios, lo que fomentará la confianza en nuestra aplicación. 
+6. Seguridad de Datos: Suponemos que podemos garantizar la seguridad y privacidad de los datos personales de los usuarios, lo que fomentará la confianza en nuestra aplicación.
 
-7. Competencia: Suponemos que habrá competidores en el mercado de aplicaciones de transporte público en Lima, y debemos encontrar formas de diferenciarnos y ofrecer un valor único a los usuarios. 
+7. Competencia: Suponemos que habrá competidores en el mercado de aplicaciones de transporte público en Lima, y debemos encontrar formas de diferenciarnos y ofrecer un valor único a los usuarios.
 
-8. Retención de Usuarios: Suponemos que podemos mantener una base de usuarios activa y comprometida a largo plazo mediante actualizaciones regulares de la aplicación, características adicionales y un excelente servicio al cliente. 
+8. Retención de Usuarios: Suponemos que podemos mantener una base de usuarios activa y comprometida a largo plazo mediante actualizaciones regulares de la aplicación, características adicionales y un excelente servicio al cliente.
 
-9. Regulaciones y Cumplimiento Normativo: Suponemos que podemos cumplir con todas las regulaciones y requisitos legales relacionados con la operación de una aplicación de transporte público en Lima. 
+9. Regulaciones y Cumplimiento Normativo: Suponemos que podemos cumplir con todas las regulaciones y requisitos legales relacionados con la operación de una aplicación de transporte público en Lima.
 
 10. Marketing efectivo: Suponemos que podemos llevar a cabo estrategias de marketing efectivas para aumentar la conciencia y la adopción de la aplicación entre los residentes y visitantes de Lima.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Creemos que existe una demanda insatisfecha de una aplicación de planificación de rutas de transporte público en Lima. 
-Realizaremos encuestas y análisis de mercado para evaluar el interés y la disposición de los usuarios para utilizar la aplicación. 
-Suponemos que las empresas de transporte público estarán dispuestas a colaborar y proporcionar datos esenciales para nuestra aplicación. 
+Creemos que existe una demanda insatisfecha de una aplicación de planificación de rutas de transporte público en Lima.
+Realizaremos encuestas y análisis de mercado para evaluar el interés y la disposición de los usuarios para utilizar la aplicación.
+Suponemos que las empresas de transporte público estarán dispuestas a colaborar y proporcionar datos esenciales para nuestra aplicación.
 Iniciaremos conversaciones con empresas de transporte para determinar su interés y disposición para colaborar.
-Creemos que la población de Lima está dispuesta a utilizar aplicaciones móviles para planificar sus viajes en transporte público. 
-Realizaremos encuestas de aceptación de tecnología y evaluaremos la adopción inicial de la aplicación. 
-Suponemos que habrá competidores en el mercado de aplicaciones de transporte público y que podemos diferenciarnos. 
-Realizaremos un análisis de la competencia y evaluaremos nuestra propuesta de valor única. 
-Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación y la venta de boletos. 
+Creemos que la población de Lima está dispuesta a utilizar aplicaciones móviles para planificar sus viajes en transporte público.
+Realizaremos encuestas de aceptación de tecnología y evaluaremos la adopción inicial de la aplicación.
+Suponemos que habrá competidores en el mercado de aplicaciones de transporte público y que podemos diferenciarnos.
+Realizaremos un análisis de la competencia y evaluaremos nuestra propuesta de valor única.
+Suponemos que podemos generar ingresos a través de modelos de monetización como la publicidad en la aplicación y la venta de boletos.
 Implementaremos estos modelos y evaluaremos la generación de ingresos y la aceptación de los usuarios.
 
 #### 1.2.2.4. Lean UX Canvas
@@ -407,15 +442,15 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 ## 1.3. Segmentos Objetivo
 
-Segmento objetivo 1: Pasajeros en busca de un autobús. (Pasajeros) 
+Segmento objetivo 1: Pasajeros en busca de un autobús. (Pasajeros)
 
-• Personas que viajan al trabajo o la escuela en transporte público. 
-• Turistas que exploran Lima y prefieren utilizar el transporte público. 
-• Personas que no tienen acceso a un vehículo personal y dependen del transporte público para sus desplazamientos diarios. 
+• Personas que viajan al trabajo o la escuela en transporte público.
+• Turistas que exploran Lima y prefieren utilizar el transporte público.
+• Personas que no tienen acceso a un vehículo personal y dependen del transporte público para sus desplazamientos diarios.
 
-Segmento objetivo 2: Empresas de transporte que operan en Lima. 
+Segmento objetivo 2: Empresas de transporte que operan en Lima.
 
-• Los gerentes de operaciones y logística de estas empresas. 
+• Los gerentes de operaciones y logística de estas empresas.
 • Empresas formalizadas y con papeles en regla.
 
 
@@ -481,7 +516,8 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 1. **Diferenciación de Producto:**
 
 Estrategia: TrackMyRoute se enfocará en resaltar las características únicas de la aplicación, como la integración con empresas de transporte público locales y la oferta de una versión premium con funciones exclusivas.
-  <br>  <br>
+<br>  
+
 Tácticas: Para llevar a cabo esta estrategia, se implementarán campañas de marketing que destaquen estas características distintivas, utilizando mensajes claros y persuasivos para comunicar el valor añadido de la aplicación en comparación con los competidores.
 
 2. **Desarrollo Continuo:**
@@ -572,8 +608,8 @@ Fin: 06:10
 **Resumen de la entrevista:**
 Nuestra entrevistada fue Steffi Villena, que a través de contactos familiares trabaja en una empresa de transportes en el area de Contabilidad, sus primeras impresiones son un poco desalentadoras hacia nuestra idea pero aún así llegamos a la conclusión que este usuario daría el intento de usar nuestra idea de aplicación, opina que ha probado diversas aplicaciones pero no con mucho exito ya que no le llamaron mucho la atención.
 
-*Entrevista 02*
 
+**Entrevista 02**
 Entrevistado 2:
 
 Nombre y apellidos: Fabio Horna
@@ -583,18 +619,19 @@ Edad: 24 años
 Ubicación: Lima
 
 Evidencia de la reunión:
+
 <img src="images/entrevista2.jpg" alt="Canvas" width="90%">
 
 Inicio: 00:04
 
 Fin: 02:57
 
-*Enlace de entrevista:* https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
-*Resumen de la entrevista:*
+**Resumen de la entrevista:**
 Nuestro entrevistado fue Fabio Horna, un joven de 24 años que trabaja en una empresa de transporte público, discutió varios aspectos de su rol como auditor y las operaciones de la empresa en Lima. Explicó los servicios de transporte que ofrece la empresa, identificando los desafíos actuales en operaciones y atención al cliente, como la eficiencia y la satisfacción del usuario. Además, mencionó que su empresa desea incorporar tecnología para mejorar la gestión de los servicios, y destacó las funcionalidades importantes que debería tener una aplicación para optimizar estos procesos. Fabio valoró características como la usabilidad y la integración de datos al seleccionar tecnología y expresó preocupaciones sobre la implementación efectiva de nuevas plataformas. También compartió experiencias previas con tecnologías similares en el sector del transporte público.
 
-*Entrevista 03*
+**Entrevista 03**
 
 Entrevistado 2:
 
@@ -612,15 +649,22 @@ Evidencia de la reunión:
 
 </div>
 
-*Enlace de entrevista:* https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
-*Resumen de la entrevista:*
+**Resumen de la entrevista:**
 
 El análisis de la entrevista revela que los usuarios de transporte público en Lima valoran la puntualidad, la disponibilidad de información actualizada y la seguridad durante los viajes. Utilizan principalmente dispositivos móviles para acceder a aplicaciones y canales digitales, como Google Maps y Moovit, para planificar sus viajes. Esperan características como la visualización en tiempo real de los autobuses y notificaciones sobre cambios en el servicio, junto con una interfaz intuitiva y opciones de personalización. Su disposición a pagar por una versión premium depende de si ofrece mejoras significativas en la experiencia de viaje. En resumen, los usuarios buscan una aplicación confiable, precisa y fácil de usar que satisfaga sus necesidades de planificación de viajes en transporte público y mejore su experiencia general.
 
 ### 2.2.3. Análisis de entrevistas
 
-El análisis exhaustivo de la entrevista revela una comprensión profunda de las necesidades y expectativas de los usuarios en relación con una aplicación de seguimiento de rutas de transporte público en Lima. Los usuarios utilizan el transporte público regularmente para sus desplazamientos cotidianos, lo que resalta la importancia de una aplicación que facilite la optimización de sus viajes. Asimismo, valoran la puntualidad, la disponibilidad de información actualizada sobre horarios y rutas, así como la seguridad durante el viaje al planificar sus trayectos en transporte público. Los usuarios muestran una preferencia por acceder a aplicaciones móviles a través de sus smartphones, subrayando la necesidad de desarrollar una aplicación compatible y de fácil uso en dispositivos móviles. Además, recurren a diversos canales digitales, como aplicaciones móviles, sitios web y redes sociales, para interactuar e informarse sobre el transporte público, destacando así la importancia de una presencia digital sólida para la aplicación. Aunque buscan llegar a su destino de manera segura y rápida, experimentan frustraciones comunes, como la falta de información precisa y la congestión. Actualmente, emplean aplicaciones como Google Maps y Moovit para la planificación de viajes, lo que indica la necesidad de desarrollar una aplicación competitiva que ofrezca características similares o mejoradas. Esperan funciones como la visualización en tiempo real de la ubicación de los autobuses y notificaciones sobre cambios en el servicio, junto con una interfaz intuitiva y opciones de personalización. Su disposición a pagar por una versión premium depende de si ofrece mejoras significativas en la experiencia de viaje. En resumen, los usuarios buscan una aplicación confiable, precisa y fácil de usar que satisfaga sus necesidades de planificación de viajes en transporte público y mejore su experiencia general. Este análisis proporciona una guía esencial para el desarrollo de la aplicación, garantizando que cumpla con las expectativas y requisitos de los usuarios.
+**Análisis de las Entrevistas: Usuarios Regulares del Transporte Público en Lima**
+
+Los usuarios regulares del transporte público en Lima expresaron la necesidad de una aplicación que les proporcione información precisa y actualizada sobre las rutas, horarios y ubicaciones de las paradas. Esperan una aplicación intuitiva y fácil de usar que les permita planificar sus viajes de manera eficiente, evitando demoras innecesarias y optimizando su experiencia de viaje. La fiabilidad y la consistencia en el funcionamiento de la aplicación son fundamentales para estos usuarios, quienes dependen de esta herramienta para planificar y realizar sus desplazamientos diarios de manera efectiva. Están interesados en una experiencia de usuario fluida y sin complicaciones, que les permita acceder rápidamente a la información que necesitan y realizar acciones como planificar rutas y realizar pagos de manera sencilla.
+
+
+**Análisis de las Entrevistas: Empresas de Transporte Público en Lima**
+
+Las empresas de transporte público en Lima expresaron la necesidad de una aplicación que les permita optimizar la gestión de sus flotas, coordinar horarios y mejorar la eficiencia operativa. Esperan una aplicación fácil de usar que proporcione información precisa y actualizada sobre las rutas de transporte público, los horarios y las ubicaciones de las paradas. Además, valorarían características adicionales como la capacidad de gestionar flotas de manera eficiente, la generación de informes de rendimiento y la integración con sistemas de pago electrónico. La fiabilidad y la consistencia en el funcionamiento de la aplicación son aspectos clave para estas empresas, quienes necesitan contar con una herramienta confiable para gestionar sus operaciones diarias. Están abiertas a colaborar estrechamente con los desarrolladores de la aplicación para adaptarla a sus necesidades específicas y garantizar una implementación exitosa en sus operaciones
 
 ## 2.3. Needfinding
 
@@ -731,10 +775,10 @@ Con la herramiento del To-be scenario mapping exploramos las mejoras y las nueva
 
 En la sección de User Stories, detallaremos las diversas necesidades y requerimientos de nuestros
 usuarios y la empresa de transporte. Cada historia de usuario representará un escenario o una función
-específica que se espera que la aplicación proporcione, con el objetivo de cumplir connuestro 
-propósito principal: ayudar a las personas a navegar por la ciudad de Lima utilizando el transporte 
-público de manera eficiente y brindar a la empresa de transporte información en tiempo real sobre sus 
-clientes. A través de estas historias de usuario, podremos comprender mejor cómo la aplicación 
+específica que se espera que la aplicación proporcione, con el objetivo de cumplir connuestro
+propósito principal: ayudar a las personas a navegar por la ciudad de Lima utilizando el transporte
+público de manera eficiente y brindar a la empresa de transporte información en tiempo real sobre sus
+clientes. A través de estas historias de usuario, podremos comprender mejor cómo la aplicación
 satisfará las necesidades de ambas partes y proporcionará una solución integral para la movilidad
 urbana.
 
@@ -774,12 +818,12 @@ urbana.
 
 ## 3.3 Impact Mapping
 
-En la sección de Impact Mapping, exploraremos las repercusiones más amplias y los objetivos 
-estratégicos que buscamos lograr con la implementación de esta aplicación. En lugar de centrarnos en 
-detalles técnicos o funcionalidades específicas, el Impact Mapping nos ayudará a comprender cómo 
-nuestro proyecto contribuirá a alcanzar metas más grandes y cómo afectará positivamente a los 
-diferentes grupos de interés. A través de este mapeo de impacto, identificaremos las conexiones entre 
-las características de la aplicación y los resultados deseados, lo que nos permitirá tomar decisiones 
+En la sección de Impact Mapping, exploraremos las repercusiones más amplias y los objetivos
+estratégicos que buscamos lograr con la implementación de esta aplicación. En lugar de centrarnos en
+detalles técnicos o funcionalidades específicas, el Impact Mapping nos ayudará a comprender cómo
+nuestro proyecto contribuirá a alcanzar metas más grandes y cómo afectará positivamente a los
+diferentes grupos de interés. A través de este mapeo de impacto, identificaremos las conexiones entre
+las características de la aplicación y los resultados deseados, lo que nos permitirá tomar decisiones
 informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
 
 <div align="center">
@@ -840,7 +884,7 @@ div
 
 El color principal y base de nuestra solución es el verde y sus distintas tonalidades, ya que con este color buscamos provocar en nuestros usuarios equilibrio, seguridad y tranquilidad. Buscamos la simplicidad y minimalismo para que nuestros usuarios no se sientan abrumados.
 
-Las fuentes elegidas para la Landing Page y Web Application son MuseoModerno para el logo, títulos y subtitulos ya que la tipografía simula pistas y carreteras lo cual vemos que encaja con nuestro producto, y Montserrat para los textos, contenido informativo y botones de Landing Page. 
+Las fuentes elegidas para la Landing Page y Web Application son MuseoModerno para el logo, títulos y subtitulos ya que la tipografía simula pistas y carreteras lo cual vemos que encaja con nuestro producto, y Montserrat para los textos, contenido informativo y botones de Landing Page.
 
 <div align="center">
 
@@ -870,11 +914,11 @@ En esta sección mostraremos el proceso de organizar, estructurar y etiquetar el
 
 ### 4.2.1. Organization Systems.
 * **Forma jerarquica (visual hierarchy)**
-	
+
 La aplicación web de TrackMyRoute estará organizada jerarquicamente en un dashboard principal que ofrece acceso rápido a las funciones principales, incluyendo la búsqueda de rutas por ubicación y horarios en tiempo real y el pago de pasajes. En segunda instancia los usuarios podrán acceder a su historial de viajes y pagos y promociones que se brindan a los usuarios. En un último nivel de jerarquía los usuarios podrán configurar notificaciones personalizadas y gestionar su perfil de usuario, mientras que una sección de ayuda proporcionará recursos adicionales y soporte. La estructura jerárquica garantiza una navegación intuitiva y una experiencia de usuario fluida en la búsqueda y gestión de información relacionada con el transporte público.
 
 * **Organización secuencial (step-by-step to accomplish)**
-	
+
 La organización secuencial se aplicó en la aplicación web de TrackMyRoute en situaciones donde los usuarios necesiten completar una serie de pasos en un orden específico para lograr un objetivo. Por ejemplo, durante el proceso de registro de un nuevo usuario, se pueden guiar a través de una secuencia de pasos que incluya la creación de una cuenta, la configuración de preferencias y la aceptación de los términos y condiciones, también lo podemos ver al momento de buscar rutas y buses y al pagar pasaje por medio de la aplicación. De esta manera, la organización secuencial ayuda a simplificar y estructurar procesos complejos, facilitando la navegación y la comprensión para los usuarios.
 
 * **Organización matricial**
@@ -884,22 +928,22 @@ La organización matricial se aplicó en TrackMyRoute en situaciones donde exist
 ### 4.2.2. Labeling Systems.
 Para facilitar el entendimiento de la aplicación para los usuarios hemos utilizado el siguiente sistema de etiquetado.
 
-| Etiqueta            | Descripción                                                                                                                                    |   
+| Etiqueta            | Descripción                                                                                                                                    |
 |:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
-| Buscar Rutas        | En esta sección se le mostrará al usuario avisos por parte de la aplicación                                                                    |  
-| Notificaciones      | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |  
-| Pagar Pasaje        | En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.         |   
-| Promociones         | En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                                     |   
-| Historial de Viajes | En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                                                           | 
-| Soporte y Ayuda     | En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                                              |  
-| Configuración       | En esta sección el usuario puede configurar sus preferencias y su perfil.                                                                      |  
+| Buscar Rutas        | En esta sección se le mostrará al usuario avisos por parte de la aplicación                                                                    |
+| Notificaciones      | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |
+| Pagar Pasaje        | En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.         |
+| Promociones         | En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                                     |
+| Historial de Viajes | En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                                                           |
+| Soporte y Ayuda     | En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                                              |
+| Configuración       | En esta sección el usuario puede configurar sus preferencias y su perfil.                                                                      |
 
 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 Los SEO tags y Meta tags son importantes porque juegan un papel fundamental en la optimización de motores de búsqueda (SEO) y en la mejora de la visibilidad y el ranking de una página web en los resultados de búsqueda. Por lo cual para optimizar la búsqueda y posicionamiento de TrackMyRoute hemos establecido lo siguiente:
-	
+
 * **Landing Page:**
 	Title: TrackMyRoute
   Description: Optimiza tu viaje y libérate del estrés
@@ -1141,7 +1185,7 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
 2. Google docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos. docs.google.com
-	
+
 **Product UX/UI Design**
 
 1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En elcaso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.Ruta de referencia https://www.figma.com
@@ -1223,8 +1267,8 @@ Estrucutra de las ramas:
 
 ### 5.1.4. Software Deployment Configuration.
 
-<p align="justify"> 
-  Para la implementación de la aplicación Track My Route, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación. 
+<p align="justify">
+  Para la implementación de la aplicación Track My Route, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación.
   Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
 </p>
 
@@ -1235,7 +1279,7 @@ Estrucutra de las ramas:
 
 - Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
   <img align="center" src="images/desplieguefinal.PNG" alt="Despliegue en Github Pages" width="90%">
-  
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
@@ -1304,7 +1348,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. 
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
 
 El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
@@ -1312,19 +1356,13 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 <div align="center">
 
-  <img src="images/insight1.png">
+  <img src="images/landing_page_insight1.png">
 
 </div>
 
 <div align="center">
 
-  <img src="images/insight2.png">
-
-</div>
-
-<div align="center">
-
-  <img src="images/insight3.png">
+  <img src="images/landing_page_insight2.png">
 
 </div>
 
@@ -1359,3 +1397,11 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 <p align="justify">Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1</p>
 
 <p align="justify">Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/</p>
+
+<p align="justify">Entrevista 1: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1</a></p>
+
+<p align="justify">Entrevista 2: <a> https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview</a></p>
+
+<p align="justify">Entrevista 3: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6</a></p>
+
+
