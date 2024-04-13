@@ -34,7 +34,6 @@ Ciclo 2024-01
 
 <br>
 
-Link al video de exposición: 
 
 **Abril del 2024**
 
@@ -1390,18 +1389,19 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 ## Anexos
 
-<p align="justify">Landing Page Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0</p>
+Landing Page Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
 
-<p align="justify">Wireframes y Mockups Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0</p>
+Wireframes y Mockups Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
 
-<p align="justify">Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1</p>
+Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1
 
-<p align="justify">Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/</p>
+Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
-<p align="justify">Entrevista 1: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1</a></p>
+Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
 
-<p align="justify">Entrevista 2: <a> https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview</a></p>
+Entrevista 2:  https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
-<p align="justify">Entrevista 3: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6</a></p>
+Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
 
 
+Link Video de Exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
