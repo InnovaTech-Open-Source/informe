@@ -26,7 +26,7 @@ Ciclo 2024-01
 
 | Member                            |    Code    |
 | :-------------------------------- | :--------: |
-| -      |   -         |
+| OSCAR SEBASTIAN NICOLAS MORENO CARMONA   |   -         |
 | Carlos Arian Ramirez Mendoza     | U202020108 |
 | Javier Sharvel Irigoyen Matos     |U20221D156  |
 | Eduardo Vicente Mancilla Ordaya   |U202018894  |
@@ -174,8 +174,8 @@ Link al video de exposición:
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales.| TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br>|
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se realizó el diseño de la Landing Page y Web Aplication, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute| TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
 
 <br><br>
 
@@ -550,7 +550,77 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 
+**Entrevista 01**
+
+Entrevistado 1:
+
+Nombre y apellidos: Steffi Villena
+
+Edad: 26 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/N1Qf52w.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 06:10
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
+
+**Resumen de la entrevista:**
+Nuestra entrevistada fue Steffi Villena, que a través de contactos familiares trabaja en una empresa de transportes en el area de Contabilidad, sus primeras impresiones son un poco desalentadoras hacia nuestra idea pero aún así llegamos a la conclusión que este usuario daría el intento de usar nuestra idea de aplicación, opina que ha probado diversas aplicaciones pero no con mucho exito ya que no le llamaron mucho la atención.
+
+*Entrevista 02*
+
+Entrevistado 2:
+
+Nombre y apellidos: Fabio Horna
+
+Edad: 24 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+<img src="images/entrevista2.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 02:57
+
+*Enlace de entrevista:* https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+*Resumen de la entrevista:*
+Nuestro entrevistado fue Fabio Horna, un joven de 24 años que trabaja en una empresa de transporte público, discutió varios aspectos de su rol como auditor y las operaciones de la empresa en Lima. Explicó los servicios de transporte que ofrece la empresa, identificando los desafíos actuales en operaciones y atención al cliente, como la eficiencia y la satisfacción del usuario. Además, mencionó que su empresa desea incorporar tecnología para mejorar la gestión de los servicios, y destacó las funcionalidades importantes que debería tener una aplicación para optimizar estos procesos. Fabio valoró características como la usabilidad y la integración de datos al seleccionar tecnología y expresó preocupaciones sobre la implementación efectiva de nuevas plataformas. También compartió experiencias previas con tecnologías similares en el sector del transporte público.
+
+*Entrevista 03*
+
+Entrevistado 2:
+
+Nombre y apellidos: Carlos Arian
+
+Edad: 24 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="images/entrevista3.png">
+
+</div>
+
+*Enlace de entrevista:* https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+*Resumen de la entrevista:*
+
+El análisis de la entrevista revela que los usuarios de transporte público en Lima valoran la puntualidad, la disponibilidad de información actualizada y la seguridad durante los viajes. Utilizan principalmente dispositivos móviles para acceder a aplicaciones y canales digitales, como Google Maps y Moovit, para planificar sus viajes. Esperan características como la visualización en tiempo real de los autobuses y notificaciones sobre cambios en el servicio, junto con una interfaz intuitiva y opciones de personalización. Su disposición a pagar por una versión premium depende de si ofrece mejoras significativas en la experiencia de viaje. En resumen, los usuarios buscan una aplicación confiable, precisa y fácil de usar que satisfaga sus necesidades de planificación de viajes en transporte público y mejore su experiencia general.
+
 ### 2.2.3. Análisis de entrevistas
+
+El análisis exhaustivo de la entrevista revela una comprensión profunda de las necesidades y expectativas de los usuarios en relación con una aplicación de seguimiento de rutas de transporte público en Lima. Los usuarios utilizan el transporte público regularmente para sus desplazamientos cotidianos, lo que resalta la importancia de una aplicación que facilite la optimización de sus viajes. Asimismo, valoran la puntualidad, la disponibilidad de información actualizada sobre horarios y rutas, así como la seguridad durante el viaje al planificar sus trayectos en transporte público. Los usuarios muestran una preferencia por acceder a aplicaciones móviles a través de sus smartphones, subrayando la necesidad de desarrollar una aplicación compatible y de fácil uso en dispositivos móviles. Además, recurren a diversos canales digitales, como aplicaciones móviles, sitios web y redes sociales, para interactuar e informarse sobre el transporte público, destacando así la importancia de una presencia digital sólida para la aplicación. Aunque buscan llegar a su destino de manera segura y rápida, experimentan frustraciones comunes, como la falta de información precisa y la congestión. Actualmente, emplean aplicaciones como Google Maps y Moovit para la planificación de viajes, lo que indica la necesidad de desarrollar una aplicación competitiva que ofrezca características similares o mejoradas. Esperan funciones como la visualización en tiempo real de la ubicación de los autobuses y notificaciones sobre cambios en el servicio, junto con una interfaz intuitiva y opciones de personalización. Su disposición a pagar por una versión premium depende de si ofrece mejoras significativas en la experiencia de viaje. En resumen, los usuarios buscan una aplicación confiable, precisa y fácil de usar que satisfaga sus necesidades de planificación de viajes en transporte público y mejore su experiencia general. Este análisis proporciona una guía esencial para el desarrollo de la aplicación, garantizando que cumpla con las expectativas y requisitos de los usuarios.
 
 ## 2.3. Needfinding
 
@@ -1054,6 +1124,12 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.8.1. Database Diagram.
 
+<div align="center">
+
+  <img src="images/bd.jpg">
+
+</div>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1216,6 +1292,12 @@ Para esta entrega, no se implementó el conjunto de apartados relacionados con W
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+<div align="center">
+
+  <img src="images/deploy_landing.png">
+
+</div>
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
@@ -1228,7 +1310,23 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+<div align="center">
 
+  <img src="images/insight1.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/insight2.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/insight3.png">
+
+</div>
 
 ## Conclusiones
 
@@ -1261,11 +1359,3 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 <p align="justify">Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1</p>
 
 <p align="justify">Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/</p>
-
-<p align="justify">Entrevista 1:  </p>
-
-<p align="justify">Entrevista 2:  </p>
-
-<p align="justify">Entrevista 3: </p>
-
-<p align="justify">Video TB1: </p>
