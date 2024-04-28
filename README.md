@@ -932,7 +932,7 @@ También utilizamos iconos para la parte del dashboard.
 
 <div align="center">
 
-  <img src="images/Iconos.png">
+  <img src="images/iconos.jpeg">
 
 </div>
 
@@ -1466,7 +1466,7 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 En el segundo Sprint, se implementará el aplicativo web de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="sprint2.jpg" alt="Trello" width="100%">
+<img src="trello2.png" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
