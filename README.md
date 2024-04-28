@@ -1466,7 +1466,7 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 En el segundo Sprint, se implementará el aplicativo web de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="trello2.png" alt="Trello" width="100%">
+<img src="images/trello2.PNG" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
@@ -1603,13 +1603,14 @@ Landing Page Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRou
 
 Wireframes y Mockups Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
 
-Trello: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1
+Trello Sprint 1: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1
+Trello Sprint 2: https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
 
 Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
 Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
 
-Entrevista 2:  https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+Entrevista 2:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EddQn8WabOhChWfh2viP_c8BjYGVE_wWWysKqn3cBZsYVQ?e=MW4UL0
 
 Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
 
