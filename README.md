@@ -745,7 +745,7 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 **Pasajeros en busca de un autobús. (Pasajeros)**
 
 <div align="center">
-  <img src="images\empathy.jpg">
+  <img src="images\empathy1.jpg">
 </div>
 
 **Empresas de transporte que operan en Lima**
