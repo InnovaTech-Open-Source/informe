@@ -12,7 +12,7 @@ Ciclo 2024-01
 
 # <center>Desarrollo de Aplicaciones Open Source</center>
 
-## TB1 REPORT
+## TP1 REPORT
 
 **Sección:** WX54
 
@@ -35,7 +35,7 @@ Ciclo 2024-01
 <br>
 
 
-**Abril del 2024**
+**Mayo del 2024**
 
 <br><br>
 
@@ -46,6 +46,7 @@ Ciclo 2024-01
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   TB1   | 05/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  CAPITULO I AL V|
+|   TP1   | 28/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  Correciones del TB1, y desarrollo del Sprint 2|
 
 
 
@@ -86,6 +87,19 @@ Ciclo 2024-01
 
 </div>
 
+- **TP1:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 2:
+
+    Link del repositorio del Informe Final: https://github.com/InnovaTech-Open-Source/informe/blob/main/README.md
+
+    <br>
+
+
+
+<div align="center">
+
+  <img src="">
+
+</div>
 
 <br>
 <hr>
@@ -213,8 +227,8 @@ Ciclo 2024-01
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <<<<<<< HEAD
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br>|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se realizó el diseño de la Landing Page y Web Aplication, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute| TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.<br><br> <strong>TP1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se tomaron en cuenta las observaciones del TB1 y se empezo con la implementacion de la aplicacion Web <br><br>| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 Se corrigieron puntos clave para empezar con el desarrollo de la aplicacion web. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se realizó el diseño de la Landing Page y Web Aplication, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute <br><br>  <strong>TP1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se implementaron las vistas principales de la Aplicacion web en Angular usando Angular Material <br><br> | TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br> TP1 <br><br> Se empezo con la implementacion de la aplicacion web comenzando con las vistas principales en Angular|
 =======
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>- Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista. <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> |
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br>Oscar Sebastian Moreno Carmona<br> - Se propuso ideas para el desarrollo del proyecto, se investigó posibles diseños, reglas para el desarrollo y tambien requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se diseñaron la Landing Page y la Web Application, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, ademas de realizar las secciones que mencionan el propósito y alcance del proyecto. | TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br>|
@@ -750,6 +764,10 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 **Empresas de transporte que operan en Lima**
 
+<div align="center">
+  <img src="images/empathy2.jpeg">
+</div>
+
 ### 2.3.5. As-is Scenario Mapping
 
 **Pasajeros en busca de un autobús. (Pasajeros)**
@@ -770,11 +788,17 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 Con la herramiento del To-be scenario mapping exploramos las mejoras y las nuevas funcionalidades que se incorporarán en la aplicación “TrackMyRoute”. Estas mejoras están diseñadas para optimizar la experiencia de los usuarios al movilizarse por la ciudad de Lima en transporte público y proporcionar a la empresa de transporte una visión en tiempo real de sus clientes. A través de este proceso, visualizamos cómo la aplicación evolucionará para brindar un servicio más eficiente y útil a los dos grupos de usuarios.
 
+**Pasajeros en busca de un autobús. (Pasajeros)**
 <div align="center">
-  <img src="images\tobemap.jpg">
+  <img src="images\tobemap.jpeg">
 </div>
 <br>
 
+**Empresas de transporte que operan en Lima**
+<div align="center">
+  <img src="images\tobe2.jpeg">
+</div>
+<br>
 
 ## 3.2 User Stories
 
@@ -1374,18 +1398,168 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
-
+<table>
+  <caption>Sprint #2</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>22/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>16:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Mancilla Ordaya, Eduardo</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de InnovaTech</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará el repositorio del aplicativo web. Además, se asignarán las tareas a realizar como las secciones del aplicativo a desarrollar y las correcciones al informe.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el aplicativo web se desarrolló con html, css y TypeScript junto con Angular.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.2.2. Sprint Backlog 2
 
+En el segundo Sprint, se implementará el aplicativo web de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="sprint2.jpg" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+<p align="justify">A continuación se presentan informacion de los commits del FrontedEnd del nuestro Aplicativo TrackMyRoute, con el uso de HTML, CSS, Typescript y Angular</p>
 
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1414,6 +1588,9 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
+
+**TP1:**
+<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
 
 ## Bibliografía
 
