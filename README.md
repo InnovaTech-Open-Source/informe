@@ -1484,69 +1484,34 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
   </tr>
   <tr>
     <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>feature/config-page</td>
+    <td>c3335184d447136208cd4d1f5df6270bae10d2da</td>
+    <td>feat: config page</td>
+    <td>29/04/2024</td>
   </tr>
    <tr>
-    <td></td>
+    <td>track-my-route</td>
+    <td>feature/history-page</td>
+    <td>709dd269e56577fab66088fae8a18b8dcc505ed6</td>
+    <td>feat: history page</td>
+    <td>29/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>10/04/2024</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>track-my-route</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
-    <td></td>
+    <td>track-my-route</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1555,22 +1520,23 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
   </table>
 
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
+<img src="images/commitSprint2.0.PNG" alt="Spring2.0Evidence" width="100%">
 
 ## Conclusiones
 
@@ -1614,5 +1580,6 @@ Entrevista 2:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_
 
 Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
 
+Entrevista 4: 
 
 Link Video de Exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
