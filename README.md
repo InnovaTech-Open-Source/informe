@@ -1187,9 +1187,27 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+<div align="center">
+
+  <img src="images/context-diagram.png">
+
+</div>
+
 ### 4.6.2. Software Architecture Container Diagrams.
 
+<div align="center">
+
+  <img src="images/container-diagram.png">
+
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+<div align="center">
+
+  <img src="images/components-diagram.png">
+
+</div>
 
 ## 4.7. Software Object-Oriented Design.
 
