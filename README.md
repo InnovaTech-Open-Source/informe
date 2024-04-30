@@ -25,7 +25,7 @@ Ciclo 2024-01
 ### Team Members:
 
 | Member                            |    Code    |
-| :----------------|---------------- | 
+| :----------------|---------------- |
 | Oscar Sebastian Nicolas Moreno Carmona     |   U201911522        |
 | Carlos Arian Ramirez Mendoza     | U202020108 |
 | Javier Sharvel Irigoyen Matos     |U20221D156  |
@@ -541,7 +541,7 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 1. **Diferenciación de Producto:**
 
 Estrategia: TrackMyRoute se enfocará en resaltar las características únicas de la aplicación, como la integración con empresas de transporte público locales y la oferta de una versión premium con funciones exclusivas.
-<br>  
+<br>
 
 Tácticas: Para llevar a cabo esta estrategia, se implementarán campañas de marketing que destaquen estas características distintivas, utilizando mensajes claros y persuasivos para comunicar el valor añadido de la aplicación en comparación con los competidores.
 
@@ -1187,31 +1187,21 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-<div align="center">
-
-  <img src="images/context-diagram.png">
-
-</div>
+![Context Diagram](images/context-diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-<div align="center">
-
-  <img src="images/container-diagram.png">
-
-</div>
+![Container Diagram](images/container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-<div align="center">
-
-  <img src="images/components-diagram.png">
-
-</div>
+![Components Diagram](images/components-diagram.png)
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+
+![class diagram](images/diagram-class.jpeg)
 
 ### 4.7.2. Class Dictionary.
 
@@ -1219,11 +1209,7 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.8.1. Database Diagram.
 
-<div align="center">
-
-  <img src="images/bd.jpg">
-
-</div>
+![database diagramke](images/bd.jpg)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1576,7 +1562,7 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
     <td></td>s
     <td></td>
   </tr>
-  
+
 
   </table>
 
@@ -1641,6 +1627,6 @@ Entrevista 2:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_
 
 Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
 
-Entrevista 4: 
+Entrevista 4:
 
 Link Video de Exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
