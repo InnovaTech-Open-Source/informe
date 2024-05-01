@@ -1494,6 +1494,23 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
 
 #### 5.2.2.2. Sprint Backlog 2
 
+|Sprint#|Sprint 2| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|User Story| |Task| | | | | |
+|id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU10|Visualización del mapa|T008|Desarrollo de vista del  mapa|Desarrollo e implementación de la vista del mapa con los campos de  ingreso de origen y destino|5 hrs|Oscar Sebastian|In Process|
+|HU15|Compra de boletos|T009|Desarrollo de vista pay-ticket|Desarrollo e implementación de la vista de la sección para pagar pasaje de algun bus seleccionado|3 hrs|Carlos Arian|Done|
+|HU08|Visualización del menú de opciones|T010|Desarrollo de menu de opciones|Desarrollo e implementación del side nav con opciones para el usuario|2 hrs|Carlos Arian|Done|
+|HU01|Registrar al usuario|T011|Desarrollo de pantalla de registro|Desarrollo e implementación del la vista de registro de usuario|2 hrs|Carlos Casimiro|In Process|
+|HU02|Inicio de sesión en la aplicación|T012|Desarrollo de pantalla de inicio de sesion|Desarrollo e implementación de la vista de inicio de sesión|2 hrs|Carlos Casimiro|Done|
+|HU16|Notificaciones personalizadas|TO13|Desarrollo de pagina de notificaciones|Desarrollo e implementación de la vista de notificaciones|3 hrs|Oscar Sebastian|Done|
+|HU30|Promociones |T014|Desarrollo de pagina de promociones|Desarrollo e implementación de la vista de promociones que se le ofreceran al usuario premiun|4 hrs|Javier Sharvel|Done|
+|HU31|Soporte y Ayuda|T015|Desarrollo de pagina de ayuda|Desarrollo e implementación de la vista de soporte y ayuda|1 hrs|Carlos Arian|Done|
+|HU32|Configuración|T016|Desarrollo de pagina de configuración|Desarrollo e implementación de la pagina de configuración|2 hrs|Eduardo Mancilla|Done|
+|HU33|Historial de Viajes|T017|Desarrollo de pagina de historial de viajes|Desarrollo e implementación de la pagina de historial de viajes|3 hrs|Eduardo Mancilla|Done|
+|HU34|Recuperación de contraseña|T018|Desarrollo de pagina de recuperación de contraseña|Desarrollo e implementacion de la pagina de recuperación de contraseña|3 hrs|Javier Sharvel|Done|
+
+
 En el segundo Sprint, se implementará el aplicativo web de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
 <img src="images/trello2.PNG" alt="Trello" width="100%">
@@ -1549,56 +1566,80 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
   </tr>
   <tr>
     <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>feature/promo</td>
+    <td>e919387281c92c0261c01bc13f3ab1581d621947</td>
+    <td>feat: seccion de promociones</td>
+    <td>30/04/2024</td>
   </tr>
   <tr>
     <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>feature/notifications</td>
+    <td>d473368537e6501d72884c94f228f41d134ccb59</td>
+    <td>feat: added notifications page</td>
+    <td>30/04/2024</td>
   </tr>
   <tr>
     <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>feature/dashboard</td>
+    <td>f01822bf6427b663d29e8671f8f2a4c16334ed06</td>
+    <td>feat: added search route page</td>
+    <td>29/04/2024</td>
   </tr>
-  <tr>
-    <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>s
-    <td></td>
-  </tr>
-
-
   </table>
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la interfaz de la aplicación web.</p>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+<div align="center">
 
+  <img src="images/app_deploy.png">
+
+</div>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación del frontend de la aplicación web. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+**Paso 1:** desplegarlo localmente usando lite server
+
+<div align="center">
+
+  <img src="images/deploy_1.jpg">
+
+</div>
+
+**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
+
+<div align="center">
+
+  <img src="images/deploy_2.jpeg">
+
+</div>
+
+**Paso 3** realizar el deploy a traves de firebase
+
+<div align="center">
+
+  <img src="images/deploy_3.jpg">
+
+</div>
+
+**Paso 4:** ng deploy
+
+<div align="center">
+
+  <img src="images/deploy_4.jpg">
+
+</div>
+
+Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/history
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -1606,6 +1647,7 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
 <img src="images/commitSprint2.0.PNG" alt="Spring2.0Evidence" width="100%">
 <img src="images/sprint-2-insight2.png" alt="Spring2.0Evidence" width="100%">
 <img src="images/sprint-2-insight3.png" alt="Spring2.0Evidence" width="100%">
+<img src="images/sprint-2-insight4.png" alt="Spring2.0Evidence" width="100%">
 
 ## Conclusiones
 
@@ -1642,6 +1684,9 @@ Trello Sprint 1: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c
 Trello Sprint 2: https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
 
 Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
+
+App Web: https://track-my-route-12342468.web.app/sidebar/history
+
 
 Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
 
