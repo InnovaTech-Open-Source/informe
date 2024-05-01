@@ -25,7 +25,7 @@ Ciclo 2024-01
 ### Team Members:
 
 | Member                            |    Code    |
-| :----------------|---------------- | 
+| :----------------|---------------- |
 | Oscar Sebastian Nicolas Moreno Carmona     |   U201911522        |
 | Carlos Arian Ramirez Mendoza     | U202020108 |
 | Javier Sharvel Irigoyen Matos     |U20221D156  |
@@ -541,7 +541,7 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
 1. **Diferenciación de Producto:**
 
 Estrategia: TrackMyRoute se enfocará en resaltar las características únicas de la aplicación, como la integración con empresas de transporte público locales y la oferta de una versión premium con funciones exclusivas.
-<br>  
+<br>
 
 Tácticas: Para llevar a cabo esta estrategia, se implementarán campañas de marketing que destaquen estas características distintivas, utilizando mensajes claros y persuasivos para comunicar el valor añadido de la aplicación en comparación con los competidores.
 
@@ -1176,9 +1176,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 ### 4.5. Web Applications Prototyping.
 
 <div align="center">
-
   <img src="images/prototipo.png">
-
 </div>
 
 Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=3-6&t=Tc3cgQGdxXchceg5-1&scaling=scale-down-width&page-id=1%3A3&starting-point-node-id=3%3A6&mode=design
@@ -1188,48 +1186,51 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 ### 4.6.1. Software Architecture Context Diagram.
 
 <div align="center">
-
   <img src="images/context-diagram.png">
-
 </div>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-<div align="center">
-
-  <img src="images/container-diagram.png">
-
-</div>
+![Container Diagram](images/container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-<div align="center">
-
-  <img src="images/components-diagram.png">
-
-</div>
+![Components Diagram](images/components-diagram.png)
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
+<<<<<<< HEAD
 <div align="center">
 
-  <img src="images/classes.jpeg">
+  <img src="diagram-class.jpeg">
 
 </div>
 
 ### 4.7.2. Class Dictionary.
+| CLASE        	| ATRIBUTOS                                                                                                                                                 	| MÉTODOS                                                                                                                                                                                                                           	|
+|--------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Usuario      	| id:int -> id del usuario<br>correo:string -> correo electrónico del usuario<br>contrasenia:string -> contraseña del usuario                               	| registrarUsuario() -> Permite registrar una nueva cuenta<br>iniciarSesion() -> Permite iniciar sesión en el sistema<br>salirSesion() -> Permite salir sesión en el sistema<br>editarPerfil()->Permite al usuario editar su perfil 	|
+| Pasajero     	| id:int -> id del pasajero<br>nombre:string -> nombre del pasajero<br>apellidos:string -> apellidos del pasajero<br>celular:string -> celular del pasajero 	| reservarViaje() ->Reserva un nuevo viaje para el pasajero<br>obtenerHistorialViajes()-> Obtiene una lista de los viajes pasados                                                                                                   	|
+| Empresa      	| id:int -> id de la empresa<br>ruc:string->número de ruc de la empresa<br>razon_social:string->razón social de la empresa                                  	| agregarBus()-> Permite que la empresa pueda agregar buses<br>eliminarBus()-> Permite que la empresa pueda eliminar buses                                                                                                          	|
+| Bus          	| id:int -> id del bus<br>placa:string->número de placa del bus                                                                                             	| agregarRuta()-> Permite que el bus pueda agregar rutas<br>modificarRuta()-> Permite que el bus pueda modificar rutas<br>eliminarRuta()-> Permite que el bus pueda eliminar rutas                                                  	|
+| Modelo       	| id:int -> id del modelo de bus<br>nombre:string->nombre del modelo del bus                                                                                	|                                                                                                                                                                                                                                   	|
+| Marca        	| id:int -> id de la marca de bus<br>nombre:string->nombre de la marca del bus                                                                              	|                                                                                                                                                                                                                                   	|
+| Ruta         	| id:int -> id de la ruta<br>distancia:float->distancia en km de la ruta                                                                                    	| agregarParadero()-> Permite que la ruta pueda agregar paraderos<br>eliminarParadero()-> Permite que la ruta pueda eliminar paraderos                                                                                              	|
+| Notificacion 	| id:int -> id de la notificación<br>mensaje:string->detalle del mensaje de la notificación                                                                 	| enviar()-> Permite hacer el envío de notificaciones a los pasajeros<br>marcarComoLeido()-> Permite marcar como leído las notifiaciones                                                                                            	|
+| Promocion    	| id:int -> id de la promoción<br>c_viajes:int-> número de viajes<br>c_cupon:string-> código de cupón<br>beneficio:string-> descripción del beneficio       	| aplicarPromocio()-> Permite aplicar la promoción a un usuario por cierto viaje                                                                                                                                                    	|
+| Viaje        	| id:int -> id del viaje<br>fecha_hora_inicio->hora y fecha del inicio del viaje<br>fecha_hora_fin->hora y fecha del fin del viaje                          	|                                                                                                                                                                                                                                   	|
+| Paradero     	| id:int -> id del paradero<br>latitud:string -> coordenada latitud del paradero<br>longitud:string -> coordenada longitud del paradero                     	|                                                                                                                                                                                                                                   	|
+| Distrito     	| id:int -> id del distrito<br>nombre:string -> nombre del distrito                                                                                         	|                                                                                                                                                                                                                                   	|
+| Tarifa       	| id:int -> id de la tarifa<br>precio:float -> precio de la tarifa                                                                                          	|                                                                                                                                                                                                                                   	|
+
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
 
-<div align="center">
-
-  <img src="images/bd.jpg">
-
-</div>
+![database diagramke](images/bd.jpg)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1582,7 +1583,7 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
     <td></td>s
     <td></td>
   </tr>
-  
+
 
   </table>
 
@@ -1647,6 +1648,6 @@ Entrevista 2:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_
 
 Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
 
-Entrevista 4: 
+Entrevista 4:
 
 Link Video de Exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
