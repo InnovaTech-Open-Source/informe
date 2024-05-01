@@ -1201,7 +1201,6 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.7.1. Class Diagrams.
 
-<<<<<<< HEAD
 <div align="center">
 
   <img src="/images/diagram-class.jpeg">
