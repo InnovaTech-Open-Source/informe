@@ -1213,6 +1213,12 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.7.1. Class Diagrams.
 
+<div align="center">
+
+  <img src="images/classes.jpeg">
+
+</div>
+
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
