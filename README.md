@@ -1604,6 +1604,8 @@ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 <img src="images/commitSprint2.0.PNG" alt="Spring2.0Evidence" width="100%">
+<img src="images/sprint-2-insight2.png" alt="Spring2.0Evidence" width="100%">
+<img src="images/sprint-2-insight3.png" alt="Spring2.0Evidence" width="100%">
 
 ## Conclusiones
 
