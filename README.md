@@ -1204,7 +1204,7 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 <<<<<<< HEAD
 <div align="center">
 
-  <img src="diagram-class.jpeg">
+  <img src="/images/diagram-class.jpeg">
 
 </div>
 
