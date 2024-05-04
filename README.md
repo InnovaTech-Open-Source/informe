@@ -1488,11 +1488,11 @@ El link de nuestra Landing Page es el siguiente: https://innovatech-open-source.
     </tr>
     <tr>
       <td>Sprint 2 Velocity</td>
-      <td>5</td>
+      <td>20</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>8</td>
+      <td>35</td>
     </tr>
   </tbody>
 </table>
