@@ -1842,25 +1842,13 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 <div align="center">
 
-  <img src="">
+  <img src="/images/backen-test-1.png">
 
 </div>
 
 <div align="center">
 
-  <img src="">
-
-</div>
-
-<div align="center">
-
-  <img src="">
-
-</div>
-
-<div align="center">
-
-  <img src="">
+  <img src="/images/backend-test-2.png">
 
 </div>
 
@@ -1878,6 +1866,8 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
   <img src="/images/evidence2-sprint3.PNG">
 
 </div>
+
+Link del backend desplegado: http://40.71.173.200/swagger-ui/index.html
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -1915,103 +1905,130 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 
-**Paso 1:** Crear virtual machine en azure
+**Paso 1:** Entrar a la máquina virtual
 
 <div align="center">
 
-  <img src="">
+  <img src="/images/backend-deploy-1.png">
 
 </div>
 
-**Paso 2:** Acceder por SSH a virtual machine
+**Paso 2:** Instalar Docker
 
 <div align="center">
 
-  <img src="">
+  <img src="/images/backend-deploy-2.png">
 
 </div>
 
-**Paso 3** Instalar DOCKER y DOCKER COMPOSE en la VM
-
 <div align="center">
 
-  <img src="">
+  <img src="/images/backend-deploy-3.png">
 
 </div>
 
-**Paso 4:** Crear imagen docker en proyecto spring boot
-
 <div align="center">
 
-  <img src="">
+  <img src="/images/backend-deploy-4.png">
 
 </div>
 
-
-
-**Paso 5:** Crear docker-compose.yml en proyecto spring boot
+**Paso 3** Probar que funcione con la imagen Hello World
 
 <div align="center">
 
-  <img src="">
+  <img src="/images/backend-deploy-5.png">
 
 </div>
 
-
-
-**Paso 6:** Generar .jar desde el INTELIJ en la opcion MAVEN -> CLEAN -> PACKAGE
+**Paso 4:** Instalar git
 
 <div align="center">
 
-  <img src="">
+  <img src="/images/backend-deploy-6.png">
 
 </div>
 
 
 
-**Paso 7:** Mover .jar desde la carpeta target a la carpeta jar
+**Paso 5:** Clonar el repositorio y trasladarse a la rama "deployment"
 
 <div align="center">
 
-  <img src="">
-
-</div>
-
-
-**Paso 8:** Push del proyecto
-
-<div align="center">
-
-  <img src="">
-
-</div>
-
-
-**Paso 9:** Clonar proyecto en Virtual machine
-
-<div align="center">
-
-  <img src="">
-
-</div>
-
-**Paso 10:** Ejecutar "sudo docker compose up -d" en la Virtual machine
-
-<div align="center">
-
-  <img src="">
+  <img src="/images/backend-deploy-7.png">
 
 </div>
 
 
 
-Link del backend de TrackMyRoute desplegado: 
+**Paso 6:** Correr la aplicación
+
+<div align="center">
+
+  <img src="/images/backend-deploy-8.png">
+
+</div>
+
+
+
+**Paso 7:** Probar que funcione la aplicación, entrando a swagger desde nuestra propia computadora
+
+<div align="center">
+
+  <img src="/images/backend-deploy-9.png">
+
+</div>
+
+Link del backend de TrackMyRoute desplegado: http://40.71.173.200/swagger-ui/index.html
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
 <img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
+
+## 5.3. Validation Interviews
+
+En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
+
+### 5.3.1. Diseño de Entrevistas 
+
+**Segmento 1: Usuarios de servicios de transporte**
+
+1. ¿La información presentada en la Landing Page te ayuda a entender claramente el propósito de TrackMyRoute?
+2. ¿Qué tan fácil te resultó navegar por la Landing Page y encontrar la información que buscabas?
+3. ¿El diseño de la Landing Page es atractivo y profesional?
+4. ¿La propuesta de valor de TrackMyRoute está bien comunicada y te resulta convincente?
+5. ¿Qué elementos o información adicional te gustaría ver en la Landing Page para sentirte más seguro al utilizar nuestro servicio?
+6. ¿Qué tan intuitivo te parece el proceso de registro e inicio de sesión en la aplicación?
+7. ¿Las funcionalidades principales de TrackMyRoute están claramente explicadas y son fáciles de usar?
+8. ¿El diseño y la disposición de los elementos en la Web App te resultan agradables y prácticos?
+9. ¿Te sientes cómodo navegando por las distintas secciones de la Web App?
+10. ¿Hay alguna funcionalidad o característica que crees que falta en la Web App?
+
+**Segmento 2: Empresas y conductores de transporte público**
+
+1. ¿La Landing Page comunica claramente los beneficios de TrackMyRoute para tu negocio?
+2. ¿Encuentras fácilmente la información sobre planes y precios en la Landing Page?
+3. ¿Qué tan profesional y confiable te parece la presentación de la Landing Page?
+4. ¿La sección de testimonios o casos de éxito te ayuda a confiar en TrackMyRoute?
+5. ¿Qué información adicional te gustaría ver en la Landing Page para considerar implementar TrackMyRoute en tu empresa?
+6. ¿El proceso de configuración inicial de la Web App es claro y fácil de seguir?
+7. ¿Las funcionalidades de administración y gestión de rutas en la Web App son adecuadas para las necesidades de tu negocio?
+8. ¿El diseño de la Web App es profesional y se alinea con las expectativas de tu empresa?
+9. ¿Te resulta fácil acceder a informes y análisis dentro de la Web App?
+10. ¿Hay alguna funcionalidad específica que crees que debería añadirse para mejorar la experiencia de uso en un entorno empresarial?
+
+### 5.3.2. Registro de Entrevistas
+
+- Entrevista 1
+
+- Entrevista 2
+
+- Entrevista 3
+
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About the Product. 
 
 
 
@@ -2047,28 +2064,34 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 
 ## Anexos
 
-Landing Page Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
+- _**Landing Page Figma:**_ https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
 
-Wireframes y Mockups Figma: https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
+- _**Wireframes y Mockups Figma:**_ https://www.figma.com/file/pGDbVEFRTenVTPa6xzySjQ/TrackMyRoute-OpenSource?type=design&node-id=1-2&mode=design&t=jGD0Ucop8GBJetLd-0
 
-Trello Sprint 1: https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1
-Trello Sprint 2: https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
+- _**Trello Sprint 1:**_ https://trello.com/invite/b/ESztreG7/ATTI1648e8bd36893d9f82781c102fa68cbcF5A8F07E/sprint-1
 
-Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
+- _**Trello Sprint 2:**_ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
 
-App Web: https://track-my-route-12342468.web.app/sidebar/history
+- _**Trello Sprint 3:**_ 
 
-Backend: 
+- _**Track My Route Landing Page:**_ https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
+- _**Track My Route Web App:**_ https://track-my-route-12342468.web.app/sidebar/history
 
-Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
+- _**Track My Route Backend:**_ http://40.71.173.200/swagger-ui/index.html
 
-Entrevista 2:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EddQn8WabOhChWfh2viP_c8BjYGVE_wWWysKqn3cBZsYVQ?e=MW4UL0
+-  _**Entrevista 1:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
 
-Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
+- _**Entrevista 2:**_  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EddQn8WabOhChWfh2viP_c8BjYGVE_wWWysKqn3cBZsYVQ?e=MW4UL0
 
-Entrevista 4:
+- _**Entrevista 3:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/Ef4Cx2VjZuVEn9Mu-dfD6cgBcHxozKLbH3Fc21vR9D63YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LPXEI6
 
-Link Video de Exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
+- _**Link Video de Exposicion TB1:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
 
-Link Video de Exposición TP: 
+- _**Link Video de Exposición TP:**_
+- _**Link Video de Exposicón TB2:**_
+- _**Link Video About the Product:**_ 
+- _**Link Video About the Team:**_ 
+- _**Entrevista de Validación 1:**_
+- _**Entrevista de Validación 2:**_
+- _**Entrevista de Validación 3:**_
