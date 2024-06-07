@@ -2082,7 +2082,7 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 
 - _**Track My Route Landing Page:**_ https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
-- _**Track My Route Web App:**_ https://track-my-route-12342468.web.app/sidebar/history
+- _**Track My Route Web App:**_ https://track-my-route-2024.web.app/login
 
 - _**Track My Route Backend:**_ http://40.71.173.200/swagger-ui/index.html
 
