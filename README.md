@@ -2022,7 +2022,13 @@ En esta sección, el equipo registra y explica las actividades de entrevistas de
 ### 5.3.2. Registro de Entrevistas
 
 - Entrevista 1
+#### Sheyla Patricia, 33 años.
 
+ <div align="center">
+  <img src="images/entrevista1-validations.PNG"/>
+ </div>
+
+ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EXIyNi7qJYBFsaDzzTeGcxwBw4xLj4aP4542j0hzEss7Sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oFxNiX
 - Entrevista 2
 
 - Entrevista 3
@@ -2093,6 +2099,6 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 - _**Link Video de Exposición TB2:**_
 - _**Link Video About the Product:**_ 
 - _**Link Video About the Team:**_ 
-- _**Entrevista de Validación 1:**_
+- _**Entrevista de Validación 1:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EXIyNi7qJYBFsaDzzTeGcxwBw4xLj4aP4542j0hzEss7Sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oFxNiX
 - _**Entrevista de Validación 2:**_
 - _**Entrevista de Validación 3:**_
