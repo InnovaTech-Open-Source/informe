@@ -4,15 +4,10 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-Ingeniería de Software
 
-Ciclo 2024-01
+## <center>Desarrollo de Aplicaciones Open Source</center>
 
-<hr>
-
-# <center>Desarrollo de Aplicaciones Open Source</center>
-
-## TP1 REPORT
+## FINAL PROJECT REPORT
 
 **Sección:** WX54
 
@@ -34,10 +29,15 @@ Ciclo 2024-01
 
 <br>
 
+Ingeniería de Software
+
+Ciclo 2024-01
 
 **Mayo del 2024**
 
 <br><br>
+
+<hr>
 
 </div>
 
@@ -2072,7 +2072,7 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 
 - _**Trello Sprint 2:**_ https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
 
-- _**Trello Sprint 3:**_ 
+- _**Trello Sprint 3:**_ https://trello.com/invite/b/VWd9VYoW/ATTI7f5533cca405e5c535591e5a665a980cE76CE9B7/spring-3-trackmyroute
 
 - _**Track My Route Landing Page:**_ https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
@@ -2088,8 +2088,9 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 
 - _**Link Video de Exposicion TB1:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
 
-- _**Link Video de Exposición TP:**_
-- _**Link Video de Exposicón TB2:**_
+- _**Link Video de Exposición TP:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EVg35AsuKKVKizTBgd5MGjsBvZAI3PD3kz0kYLiLpl8IUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Dq9Wvu
+
+- _**Link Video de Exposición TB2:**_
 - _**Link Video About the Product:**_ 
 - _**Link Video About the Team:**_ 
 - _**Entrevista de Validación 1:**_
