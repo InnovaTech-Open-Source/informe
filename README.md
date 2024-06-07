@@ -47,6 +47,7 @@ Ciclo 2024-01
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   TB1   | 05/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  CAPITULO I AL V|
 |   TP1   | 28/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  Correciones del TB1, y desarrollo del Sprint 2|
+| TB2 | 07/06/2024 | -Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez <br> - Marcelo Sebastian Neyra Santa Cruz | Sprint 3, correcciones de entregas TB1 y TP1 |
 
 
 
@@ -230,12 +231,10 @@ Ciclo 2024-01
 
 
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<<<<<<< HEAD
+| Criterio específico  | Acciones realizadas | Conclusiones |
+|:---------- | :-------------- | :------------- |
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.<br><br> Carlos Oswaldo Casimiro Fernandez: <br> Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros. <strong>TP1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se tomaron en cuenta las observaciones del TB1 y se empezo con la implementacion de la aplicacion Web <br><br>| TB1 <br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 Se corrigieron puntos clave para empezar con el desarrollo de la aplicacion web. |
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se realizó el diseño de la Landing Page y Web Aplication, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute <br><br> Oscar Sebastian Moreno Carmona<br> - Se propuso ideas para el desarrollo del proyecto, se investigó posibles diseños, reglas para el desarrollo y tambien requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas <br><br>- Carlos Oswaldo Casimiro Fernandez: <br> Se diseñaron la Landing Page, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, ademas de realizar las secciones que mencionan el propósito y alcance del proyecto.<br><br> <strong>TP1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se implementaron las vistas principales de la Aplicacion web en Angular usando Angular Material <br><br>  | TB1 <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br> TP1 <br><br> Se empezo con la implementacion de la aplicacion web comenzando con las vistas principales en Angular|
-=======
 
 <br><br>
 
@@ -371,7 +370,7 @@ Ciclo 2024-01
     </tr>
 <tr align="center">
         <td rowspan="3">
-            <img src="images/Marcelo" alt="OSCAR SEBASTIAN NICOLAS MORENO CARMONA"  style="margin-bottom: 5px;" width="800"/>
+            <img src="/images/marcelo-foto.jpg" alt="OSCAR SEBASTIAN NICOLAS MORENO CARMONA"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -1234,7 +1233,7 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![Components Diagram](images/components-diagram.png)
+![Components Diagram](images/C4.jpeg)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -1760,7 +1759,7 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
 
 #### 5.2.3.2. Sprint Backlog 3
 
-|Sprint#|Sprint 23| | | | | | |
+|Sprint#|Sprint 3| | | | | | |
 |:----|:----|:----|:----|:----|:----|:----|:----|
 |User Story| |Task| | | | | |
 |id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
@@ -1848,7 +1847,57 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 </div>
 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="/images/evidence-sprint3.PNG">
+
+</div>
+
+<div align="center">
+
+  <img src="/images/evidence2-sprint3.PNG">
+
+</div>
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Entity</th>
+    <th>Endpoint</th>
+    <th>Swagger</th>
+  </tr>
+  <tr>
+    <td>Profile</td>
+    <td>/api/v1/profiles</td>
+    <td><img src="/images/swagger-payment.PNG"></td>
+  </tr>
+   <tr>
+    <td>Trip</td>
+    <td>/api/v1/trips</td>
+    <td><img src="/images/swagger-profiles.PNG"></td>
+  </tr>
+  <tr>
+    <td>Payment</td>
+    <td>/api/v1/payments</td>
+    <td><img src="/images/swagger-promo.PNG"></td>
+  </tr>
+  <tr>
+    <td>Promo</td>
+    <td>/api/v1/promos</td>
+    <td><img src="/images/swagger-trips.PNG"></td>
+  </tr>
+  </table>
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review+
+
+Mostraremos los pasos y evidencias para realizar el despliegue del backend.
+
+**Paso 1:** Crear virtual machine en azure
 
 <div align="center">
 
@@ -1856,14 +1905,7 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 </div>
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
-
-
-
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-**Paso 1:** desplegarlo localmente usando lite server
+**Paso 2:** Acceder por SSH a virtual machine
 
 <div align="center">
 
@@ -1871,7 +1913,7 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 </div>
 
-**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
+**Paso 3** Instalar DOCKER y DOCKER COMPOSE en la VM
 
 <div align="center">
 
@@ -1879,7 +1921,7 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 </div>
 
-**Paso 3** realizar el deploy a traves de firebase
+**Paso 4:** Crear imagen docker en proyecto spring boot
 
 <div align="center">
 
@@ -1887,7 +1929,9 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 </div>
 
-**Paso 4:** ng deploy
+
+
+**Paso 5:** Crear docker-compose.yml en proyecto spring boot
 
 <div align="center">
 
@@ -1895,15 +1939,61 @@ Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYo
 
 </div>
 
-Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/history
 
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+**Paso 6:** Generar .jar desde el INTELIJ en la opcion MAVEN -> CLEAN -> PACKAGE
 
-<img src="" alt="Spring3.0Evidence" width="100%">
-<img src="" alt="Spring3.0Evidence" width="100%">
-<img src="" alt="Spring3.0Evidence" width="100%">
-<img src="" alt="Spring3.0Evidence" width="100%">
+<div align="center">
+
+  <img src="">
+
+</div>
+
+
+
+**Paso 7:** Mover .jar desde la carpeta target a la carpeta jar
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+
+**Paso 8:** Push del proyecto
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+
+**Paso 9:** Clonar proyecto en Virtual machine
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 10:** Ejecutar "sudo docker compose up -d" en la Virtual machine
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+
+
+Link del backend de TrackMyRoute desplegado: 
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
+<img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
 
 
 
@@ -1924,7 +2014,11 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
 
 
 **TP1:**
-<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de TrackMyRoute. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+
+**TB2:**
+<p align="justify">
+Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoints de TrackMyRoute. Concluimos que Spring Boot es una herramienta sólida para crear el backend de nuestra aplicación, también notamos que tener el proyecto estructurado de forma correcta es una gran ayuda al momento de identificar lo más importante del negocio. </p>
 
 ## Bibliografía
 
@@ -1945,6 +2039,8 @@ Trello Sprint 2: https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856
 Landing Page: https://innovatech-open-source.github.io/TrackMyRoute_Landing/
 
 App Web: https://track-my-route-12342468.web.app/sidebar/history
+
+Backend: 
 
 
 Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EYU8NwblMmBBvE4TaX4v4zEBwo00tBBZ3yhPmLo6KmRXyA?e=pnhTL1
