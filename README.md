@@ -369,6 +369,31 @@ Ciclo 2024-01
         Me encuentro estudiando Ingenieria de Software desde el 2019 y considero que cada día aprendo algo nuevo. Actualmente me encuentro trabajando como programador Jr. Por otro lado, considero que utilizaré mis habilidades de programador para crear soluciones a problematicas comunes en el país. El tema de transito vehícular es un tema muy polémico en nuestra capital. Por ello, trabajaremos en grupo implementando todo lo aprendido para proponer una solución que cumpla con los estandares éticos y valores que hemos aprendido en la universidad.
         </td>
     </tr>
+<tr align="center">
+        <td rowspan="3">
+            <img src="images/Marcelo" alt="OSCAR SEBASTIAN NICOLAS MORENO CARMONA"  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            MARCELO SEBASTIAN NEYRA SANTA CRUZ
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        INGENIERIA DE SOFTWARE
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Mi nombre es Marcelo Sebastian Neyra Santa Cruz, Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y HTML. Me considero como una persona perseverante, trabajadora y amable. Mi sueño/meta es convertirme en un desarrollador de videojuegos en la empresa Nintendo.
+        </td>
+    </tr>
+ 
 </table>
 
 ## 1.2. Solution Profile
@@ -851,7 +876,10 @@ urbana.
 |HU32 | Configuración | Como cliente, quiero tener la capacidad de personalizar la configuración de mi cuenta en la aplicación para que pueda adaptarla a mis preferencias y necesidades individuales. | Dado que el cliente desea personalizar su experiencia en la aplicación, Cuando accede a la sección de configuración de la cuenta, Entonces puede ajustar preferencias como notificaciones, idioma, método de pago, etc|
 |HU33 | Historial de Viajes | Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos. | Dado que el cliente desea revisar sus viajes pasados, Cuando accede a la sección de historial de viajes, Entonces se muestra una lista cronológica de todos los viajes realizados, incluyendo detalles como fecha, hora, ruta, costo, y método de pago utilizado.|
 |HU34 | Recuperación de Contraseña | Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas. | Dado que el cliente ha olvidado su contraseña, Cuando selecciona la opción de recuperación de contraseña e ingresa su dirección de correo electrónico o número de teléfono asociado a la cuenta, Entonces recibe un enlace o código de verificación que le permite restablecer su contraseña y acceder nuevamente a su cuenta.|
-
+|HU35 | Integración de Funcionalidades de Seguimiento para Empresas de Transporte | Como gerente de operaciones de una empresa de transporte, quiero integrar funcionalidades de seguimiento de usuarios en la aplicación TrackMyRoute para recopilar datos sobre los hábitos de viaje, preferencias y comentarios de los usuarios. | Dado que soy un gerente de operaciones de una empresa de transporte, cuando implemento las funcionalidades de seguimiento de usuarios, entonces puedo rastrear la ubicación de los usuarios mientras utilizan la aplicación. Dado que necesito entender mejor los hábitos de viaje de los usuarios, cuando accedo a los datos de seguimiento de usuarios, entonces puedo ver información detallada sobre las rutas tomadas, la frecuencia de uso y las preferencias de transporte. Dado que necesito mejorar la calidad del servicio, cuando recopilo comentarios a través de las funcionalidades de seguimiento, entonces puedo identificar áreas de mejora y realizar ajustes en los servicios ofrecidos.|
+|HU36 | Optimización de Rutas en Tiempo Real para Empresas de Transporte| Como gerente de operaciones de una empresa de transporte, quiero funcionalidades en la aplicación TrackMyRoute para optimizar las rutas en tiempo real, mejorando así la eficiencia operativa. | Dado que soy un gerente de operaciones de una empresa de transporte, cuando los usuarios planifican un viaje en la aplicación TrackMyRoute, entonces reciben rutas actualizadas en tiempo real que tienen en cuenta la congestión del tráfico y los retrasos del transporte público. Dado que necesito minimizar los tiempos de viaje y reducir los costos operativos, cuando las rutas se optimizan en tiempo real, entonces los conductores pueden seguir rutas más eficientes y rentables. Dado que quiero mejorar la calidad del servicio ofrecido a los usuarios, cuando las rutas se optimizan en tiempo real, entonces los usuarios experimentan tiempos de viaje más cortos y una experiencia más fluida.|
+|HU37 |Sistema de Retroalimentación Instantánea para Empresas de Transporte|Como gerente de operaciones de una empresa de transporte, quiero implementar un sistema de retroalimentación instantánea en la aplicación TrackMyRoute para que los usuarios puedan proporcionar comentarios sobre la calidad del servicio en tiempo real.|Dado que soy un gerente de operaciones de una empresa de transporte, cuando los usuarios utilizan la aplicación TrackMyRoute, entonces tienen la opción de proporcionar comentarios sobre su experiencia de viaje.Dado que necesito identificar áreas de mejora y tomar medidas correctivas, cuando recibo comentarios a través del sistema de retroalimentación instantánea, entonces puedo analizar los datos y realizar ajustes en los servicios ofrecidos.Dado que quiero mejorar la satisfacción del cliente y la calidad del servicio, cuando se implementa el sistema de retroalimentación instantánea, entonces los usuarios sienten que sus opiniones son valoradas y tienen una mejor experiencia general con la empresa de transporte.|
+|HU38 |Panel de Análisis de Datos para Empresas de Transporte |Como gerente de operaciones de una empresa de transporte, quiero tener acceso a un panel de análisis de datos en la aplicación TrackMyRoute para visualizar y comprender el comportamiento de los usuarios.|Dado que soy un gerente de operaciones de una empresa de transporte, cuando inicio sesión en la aplicación como administrador, entonces veo un panel de análisis de datos en el panel de control. Dado que necesito comprender mejor el comportamiento de los usuarios, cuando accedo al panel de análisis de datos, entonces puedo ver gráficos y estadísticas sobre las rutas más utilizadas, los horarios de mayor demanda y los puntos de congestión. Dado que necesito tomar decisiones informadas para mejorar la eficiencia operativa, cuando interactúo con el panel de análisis de datos, entonces puedo filtrar y segmentar los datos según diferentes criterios, como ubicación, hora del día y preferencias de los usuarios.
 
 
 ## 3.3 Impact Mapping
@@ -866,7 +894,13 @@ informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
 
 <div align="center">
 
-  <img src="images/impact_mapping.png">
+  <img src="images/impact_map_user.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/impact_map_driver.png">
 
 </div>
 
@@ -1655,9 +1689,9 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
 <img src="images/sprint-2-insight4.png" alt="Spring2.0Evidence" width="100%">
 
 
-### 5.2.2. Sprint 3
+### 5.2.3. Sprint 3
 
-#### 5.2.2.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 <table>
   <caption>Sprint #3</caption>
   <thead>
@@ -1668,7 +1702,7 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
   <tbody>
     <tr>
       <td>Fecha</td>
-      <td>24/04/2024</td>
+      <td>01/06/2024</td>
     </tr>
     <tr>
       <td>Hora</td>
@@ -1714,7 +1748,7 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
       </td>
     </tr>
     <tr>
-      <td>Sprint 2 Velocity</td>
+      <td>Sprint 3 Velocity</td>
       <td>5</td>
     </tr>
     <tr>
@@ -1724,20 +1758,24 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
   </tbody>
 </table>
 
-#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.3.2. Sprint Backlog 3
 
 |Sprint#|Sprint 23| | | | | | |
 |:----|:----|:----|:----|:----|:----|:----|:----|
 |User Story| |Task| | | | | |
 |id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
-
-
+|HU10|Bounded context Profile|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Marcelo|Done|
+|HU10|Bounded context Payment|T020|Desarrollo del bounded context Payment|Desarrollo e implementación del bounded context Payment|5 hrs|Arian|Done|
+|HU10|Bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Eduardo|Done|
+|HU10|Bounded context Promo|T022|Desarrollo del bounded context Promo|Desarrollo e implementación del bounded context Promo|5 hrs|Sharvel|In Process|
+|HU10|Bounded context Notifications|T023|Desarrollo del bounded context Notifications|Desarrollo e implementación del bounded context Notifications|5 hrs|Casimiro|To-do|
+|HU10|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Oscar|In Process|
 
 En el tercer Sprint, se implementará el backend de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="" alt="Trello" width="100%">
+<img src="images/trello-sprint3.PNG" alt="Trello" width="100%">
 
-Aqui podra encontrar la evidencia de Trelo:
+Aqui podra encontrar la evidencia de Trello: https://trello.com/invite/b/VWd9VYoW/ATTI7f5533cca405e5c535591e5a665a980cE76CE9B7/spring-3-trackmyroute
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 <p align="justify">A continuación se presentan informacion de los commits del backend del nuestro Aplicativo TrackMyRoute, con el uso de Spring Boot</p>
@@ -1751,37 +1789,37 @@ Aqui podra encontrar la evidencia de Trelo:
     <th>Commited on</th>
   </tr>
   <tr>
-    <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>backend-track-my-route</td>
+    <td>feature/authentication</td>
+    <td>643adf0</td>
+    <td>feat(authentication): added authentication bc</td>
+    <td>04/06/2024</td>
   </tr>
    <tr>
-    <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>backend-track-my-route</td>
+    <td>feature/payment</td>
+    <td>6fc090f</td>
+    <td>feat(payment): added command services and post</td>
+    <td>06/06/2024</td>
   </tr>
   <tr>
-    <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>backend-track-my-route</td>
+    <td>feature/promo</td>
+    <td>55cb64a</td>
+    <td>feature:api rest- getAllPromos</td>
+    <td>04/06/2024</td>
   </tr>
   <tr>
-    <td>track-my-route</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>backend-track-my-route</td>
+    <td>feature/trip</td>
+    <td>9a8dcd3</td>
+    <td>Fix(aggregate): errors/td>
+    <td>04/06/2024</td>
   </tr>
   </table>
 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del tercer sprint, se realizaron pruebas de los endpoints con la herramienta de Swagger</p>
 
