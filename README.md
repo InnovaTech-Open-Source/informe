@@ -112,6 +112,14 @@ Ciclo 2024-01
 <hr>
 <br><br>
 
+- **TB2:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 3:
+
+    Link del repositorio del Informe Final: https://github.com/InnovaTech-Open-Source/backend-track-my-route
+
+
+<img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
+<img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
+
 # Contenido
 
 ## Tabla de Contenidos
@@ -211,12 +219,22 @@ Ciclo 2024-01
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
      - [5.2.2. Sprint 2](#522-sprint-2)
           - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+          - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
           - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
           - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
           - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
           - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
           - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+     - [5.2.2. Sprint 3](#522-sprint-3)
+          - [5.2.3.1. Sprint Planning 3](#5221-sprint-planning-3)
+          - [5.2.3.2. Sprint Backlog 3](#5212-sprint-backlog-3)
+          - [5.2.3.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+          - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+          - [5.2.3.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+          - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+          - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+          - [5.2.3.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones)
 
