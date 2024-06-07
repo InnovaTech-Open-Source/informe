@@ -1203,7 +1203,7 @@ Link del Prototipo en Figma: https://www.figma.com/proto/pGDbVEFRTenVTPa6xzySjQ/
 
 <div align="center">
 
-  <img src="/images/diagram-class.jpeg">
+  <img src="./images/classes.jpeg">
 
 </div>
 
@@ -1649,6 +1649,222 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
 <img src="images/sprint-2-insight3.png" alt="Spring2.0Evidence" width="100%">
 <img src="images/sprint-2-insight4.png" alt="Spring2.0Evidence" width="100%">
 
+
+### 5.2.2. Sprint 3
+
+#### 5.2.2.1. Sprint Planning 3
+<table>
+  <caption>Sprint #3</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>24/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>16:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Carlos Arian Ramirez Mendoza</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de InnovaTech</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará el repositorio del backend de nuestro aplicativo web, se asignarán las tareas a realizar y los endpoints a desarrollar, corregir y añadir funcionalidades faltantes de las entregas pasadas.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación del backend se realizó con Spring Boot, desplegandola con los servicios de Docker y Azure.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+|Sprint#|Sprint 23| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|User Story| |Task| | | | | |
+|id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+
+
+
+En el tercer Sprint, se implementará el backend de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+<p align="justify">A continuación se presentan informacion de los commits del backend del nuestro Aplicativo TrackMyRoute, con el uso de Spring Boot</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>track-my-route</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del tercer sprint, se realizaron pruebas de los endpoints con la herramienta de Swagger</p>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+**Paso 1:** desplegarlo localmente usando lite server
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 3** realizar el deploy a traves de firebase
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+**Paso 4:** ng deploy
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/history
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<img src="" alt="Spring3.0Evidence" width="100%">
+<img src="" alt="Spring3.0Evidence" width="100%">
+<img src="" alt="Spring3.0Evidence" width="100%">
+<img src="" alt="Spring3.0Evidence" width="100%">
+
+
+
+
 ## Conclusiones
 
 **TB1:**
@@ -1697,3 +1913,5 @@ Entrevista 3: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_e
 Entrevista 4:
 
 Link Video de Exposicion TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/ET-b41euAxhBhVNWsdQClXwBuDO59UOreOnK5G1tJ1qJdA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=go0Otg
+
+Link Video de Exposición TP: 
