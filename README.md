@@ -236,6 +236,12 @@ Ciclo 2024-01
           - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.3.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
+- [5.3. Validation Interviews](#52-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#512-registro-de-entrevistas)
+  - [5.3.3. Evaluación según heurísticas](#512-registro-de-entrevistas)
+- [5.4. Video About The Product](#54-video-about-the-product)
+
 ### [Conclusiones](#conclusiones)
 
 ### [Bibliografía](#bibliografía)
@@ -1781,11 +1787,11 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
 |:----|:----|:----|:----|:----|:----|:----|:----|
 |User Story| |Task| | | | | |
 |id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
-|HU10|Bounded context Profile|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Marcelo|Done|
-|HU10|Bounded context Payment|T020|Desarrollo del bounded context Payment|Desarrollo e implementación del bounded context Payment|5 hrs|Arian|Done|
+|HU22|implementación de sistema de autenticación oauth|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Marcelo|Done|
+|HU15|Compra de boletos	|T020|Desarrollo del bounded context Payment|Desarrollo e implementación del bounded context Payment|5 hrs|Arian|Done|
 |HU10|Bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Eduardo|Done|
 |HU10|Bounded context Promo|T022|Desarrollo del bounded context Promo|Desarrollo e implementación del bounded context Promo|5 hrs|Sharvel|In Process|
-|HU10|Bounded context Notifications|T023|Desarrollo del bounded context Notifications|Desarrollo e implementación del bounded context Notifications|5 hrs|Casimiro|To-do|
+|HU16|Notificaciones personalizadas|T023|Desarrollo del bounded context Notifications|Desarrollo e implementación del bounded context Notifications|5 hrs|Casimiro|To-do|
 |HU10|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Oscar|In Process|
 
 En el tercer Sprint, se implementará el backend de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
@@ -2029,15 +2035,122 @@ En esta sección, el equipo registra y explica las actividades de entrevistas de
  </div>
 
  Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EXIyNi7qJYBFsaDzzTeGcxwBw4xLj4aP4542j0hzEss7Sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oFxNiX
+
 - Entrevista 2
+
+<div align="center">
+  <img src="images/validation-interview-2.PNG"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EQjbAV85ShdPlpeLiAB9b9QB-9AOfWNFJY9LTwSKlPjqtg?e=ZA85oo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 - Entrevista 3
 
+<div align="center">
+  <img src="images/validation-interview-3.PNG"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EWxK3irQcQBBqqYoy_MU4YEBjpN1_fubaAQnbQ21DiqZPQ?e=20nhwO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Entrevista 4
+
+<div align="center">
+  <img src="images/validation-interview-4.PNG"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EQs2JIJT3KhJgOBNwpk0SdsBBwmxC028lQTHYn3Km_DSAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KbB7cN
+
+- Entrevista 5
+
+<div align="center">
+  <img src="images/validation-interview-5.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EQYMFUKssqhJmauBsFlZWVMBSaemDE5YDtg0jCwE_pByFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e3bNzV
+
+- Entrevista 6
+
+<div align="center">
+  <img src="images/validation-interview-6.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EelZzGkqHWFJiHPGFeqyOo0BcaIKXQZPmBSSTJ6FMZC7Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O1TB3v
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About the Product. 
+##### SITE o APP A EVALUAR:
+Track My Route
 
+##### TAREAS A EVALUAR:
 
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
+Registro de usuario
+Inicio Sesión de usuario
+Notificaciones
+Promociones
+Rutas habituales
+Configuración
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+Soporte y ayuda
+Pagar Pasaje
+Seleccionar tu ruta
+Busca tu ruta
+
+##### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+| -- |--|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+##### TABLA RESUMEN:
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+| -- | -- | -- | -- |
+| 1 | No se actualiza la información de los componentes: Notificaciones, Promociones y Rutas habituales | 2 | Credible: No proporciona información actualizada |
+| 2 | No se puede borrar la cuenta de un usuario, solo crearla y actualizarla | 2 | Controllable: No se proporciona todas las funcionlidades que el usuario podría requerir |
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+##### PROBLEMA #1:
+No se actualiza la información de los componentes: Notificaciones, Promociones y Rutas habituales
+###### Severidad: 2
+Heurística violada: Credible
+###### Problema:
+Debido a que la aplicación actualmente solo está implementada con un fake Restful API, la información presentada en la aplicación siempre está desactualizada y presenta los mismos componentes cada vez que entras a ella.
+###### Recomendación:
+Actualizar la aplicación con una Restful API que permita que la Web APP presente información real a los usuarios
+
+<div align="center">
+  <img src="images/heuristicas-1.png"/>
+</div>
+
+##### PROBLEMA #2:
+No se puede borrar la cuenta de un usuario, solo crearla y actualizarla
+###### Severidad: 2
+Heurística violada: Controllable
+###### Problema:
+Actualmente, la aplicación solo presenta la opción de creación y actualización de la información de una cuenta de usuario, mas no una de eliminación.
+###### Recomendación:
+Agregar una opción, preferiblemente en la sección de "configuración", que permita al usuario borrar su cuenta
+
+<div align="center">
+  <img src="images/heuristicas-2.png"/>
+</div>
+
+## 5.4. Video About the Product.
+
+<div align="center">
+  <img src="images/about-the-product.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/Ee-oUgDpCmVNouQmEzlyXx4BDsTjVczx-JX6pisG8_J_FQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IDKnEe
 
 ## Conclusiones
 
@@ -2098,7 +2211,17 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 
 - _**Link Video de Exposición TB2:**_
 - _**Link Video About the Product:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EYB9dOyBOjZPrXPE8ihuBxYBEHbQYQNuAT44BXUP8WqA1Q?e=wkhti3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- _**Link Video About the Team:**_ 
+
+- _**Link Video About the Team:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EYoSxisVi41LrFhePgvRiL4Bd49K1WQ2DWWZn1icZIjOfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yGg8Tr
+
+- _**Link Video About the Product:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/Ee-oUgDpCmVNouQmEzlyXx4BDsTjVczx-JX6pisG8_J_FQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IDKnEe
+
 - _**Entrevista de Validación 1:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018894_upc_edu_pe/EXIyNi7qJYBFsaDzzTeGcxwBw4xLj4aP4542j0hzEss7Sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oFxNiX
 - _**Entrevista de Validación 2:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EQjbAV85ShdPlpeLiAB9b9QB-9AOfWNFJY9LTwSKlPjqtg?e=ZA85oo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - _**Entrevista de Validación 3:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EWxK3irQcQBBqqYoy_MU4YEBjpN1_fubaAQnbQ21DiqZPQ?e=20nhwO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- _**Entrevista de Validación 4:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EQs2JIJT3KhJgOBNwpk0SdsBBwmxC028lQTHYn3Km_DSAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KbB7cN
+
+- _**Entrevista de Validación 5:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EQYMFUKssqhJmauBsFlZWVMBSaemDE5YDtg0jCwE_pByFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e3bNzV
+
+- _**Entrevista de Validación 6:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EelZzGkqHWFJiHPGFeqyOo0BcaIKXQZPmBSSTJ6FMZC7Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O1TB3v
