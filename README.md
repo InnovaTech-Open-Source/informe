@@ -2039,7 +2039,7 @@ En esta sección, el equipo registra y explica las actividades de entrevistas de
 - Entrevista 2
 
 <div align="center">
-  <img src="images/validation-interview-2.PNG"/>
+  <img src="/images/validation-interview-2.png"/>
 </div>
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EQjbAV85ShdPlpeLiAB9b9QB-9AOfWNFJY9LTwSKlPjqtg?e=ZA85oo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -2047,7 +2047,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EQ
 - Entrevista 3
 
 <div align="center">
-  <img src="images/validation-interview-3.PNG"/>
+  <img src="/images/validation-interview-3.png"/>
 </div>
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EWxK3irQcQBBqqYoy_MU4YEBjpN1_fubaAQnbQ21DiqZPQ?e=20nhwO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -2056,7 +2056,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EW
 - Entrevista 4
 
 <div align="center">
-  <img src="images/validation-interview-4.PNG"/>
+  <img src="/images/validation-interview-4.png"/>
 </div>
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EQs2JIJT3KhJgOBNwpk0SdsBBwmxC028lQTHYn3Km_DSAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KbB7cN
