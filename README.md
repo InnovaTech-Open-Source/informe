@@ -48,6 +48,7 @@ Ciclo 2024-01
 |   TB1   | 05/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  CAPITULO I AL V|
 |   TP1   | 28/04/2024 |-Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez|  Correciones del TB1, y desarrollo del Sprint 2|
 | TB2 | 07/06/2024 | -Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez <br> - Marcelo Sebastian Neyra Santa Cruz | Sprint 3, correcciones de entregas TB1 y TP1 |
+| TF | 24/06/2024 | -Oscar Sebastian Nicolas Moreno Carmona<br>-Carlos Arian Ramirez Mendoza <br> -Javier Sharvel Irigoyen Matos <br> -Eduardo Vicente Mancilla Ordaya <br> -Carlos Oswaldo Casimiro Fernandez <br> - Marcelo Sebastian Neyra Santa Cruz | Sprint 4, correcciones del backend y enlace con el frontend|
 
 
 
@@ -119,6 +120,20 @@ Ciclo 2024-01
 
 <img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
 <img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
+
+<br>
+<hr>
+<br><br>
+
+- **TF:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 4:
+
+    Link del repositorio del Informe Final: https://github.com/InnovaTech-Open-Source/informe/blob/main/README.md
+
+
+<img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
+<img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
+
+
 
 # Contenido
 
@@ -226,7 +241,7 @@ Ciclo 2024-01
           - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
           - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-     - [5.2.2. Sprint 3](#522-sprint-3)
+     - [5.2.3. Sprint 3](#522-sprint-3)
           - [5.2.3.1. Sprint Planning 3](#5221-sprint-planning-3)
           - [5.2.3.2. Sprint Backlog 3](#5212-sprint-backlog-3)
           - [5.2.3.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
@@ -235,7 +250,15 @@ Ciclo 2024-01
           - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
           - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.3.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-
+    - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+        - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+        - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#52-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#512-registro-de-entrevistas)
@@ -257,8 +280,8 @@ Ciclo 2024-01
 
 | Criterio específico  | Acciones realizadas | Conclusiones |
 |:---------- | :-------------- | :------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.<br><br> Carlos Oswaldo Casimiro Fernandez: <br> Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros. <br><br> Javier Sharvel Irigoyen Matos <br> - Pude comunicar mis ideas de soluciones, así como los enfoques del proyecto realizado.<br><br> Oscar Sebastian Nicolas Moreno Carmona <br><br> - Realizamos la reunión y definimos las tareas a realizar por el equipo. <br><br> Marcelo Sebastian Neyra Santa Cruz <br> - Realizamos una reunión, análizamos opciones para realizar el trabajo y definimos requerimientos. <br><br> <strong>TP1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se tomaron en cuenta las observaciones del TB1 y se empezo con la implementacion de la aplicacion Web <br><br>Carlos Arian Ramirez Mendoza <br> - Definimos las vistas del frontend a realizar y la estructura del proyecto <br><br>Carlos Oswaldo Casimiro <br> - Realicé la parte del login y register del frontend de la web app <br><br> Javier Sharvel Irigoyen Matos <br> - Realicé parte de los requisitos funcionales de la app, asi como la parte de configuración. <br><br> Oscar Sebastian Nicolas Moreno Carmona <br> - Me encargué de el desarrollo del frontend del mapa interactivo de la aplicación. <br><br> Marcelo Sebastian Neyra Santa Cruz <br> - Realicé el desarrollo de la plataforma de conductores y empresas de transporte <br><br> <strong>TB2</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Realicé el bounded context de trip en el backend y se implemento los fake api en el app web<br><br>Carlos Arian Ramirez Mendoza <br>- Realicé el bounded context de payment en el backend y se implemento los fake api en el app web <br><br>Carlos Oswaldo Casimiro <br> - Aun estoy implementado un bounded context <br><br> Javier Sharvel Irigoyen Matos <br> - Realicé el bounded context de Promos en el backend y se implemento los fake api en el app web <br><br> Oscar Sebastian Nicolas Moreno Carmona <br> - Aun me queda pendiente realizar el backend de Buses<br><br> Marcelo Sebastian Neyra Santa Cruz <br> - Realicé el bounded context de profiles en el backend y se implemento los fake api en el app web | <strong>TB1</strong><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> <strong>TP1</strong><br> Se corrigieron puntos clave para empezar con el desarrollo de la aplicacion web. <br><br> <strong>TB2</strong><br> La comunicación en el equipo fue diferenciador para lograr establecer lo que queríamos lograr en esta entrega.|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además, se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br>Carlos Arian Ramirez Mendoza<br> - Se realizó el diseño de la Landing Page y Web Application, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute.<br><br>Oscar Sebastian Moreno Carmona<br> - Se propusieron ideas para el desarrollo del proyecto, se investigaron posibles diseños, reglas para el desarrollo y también requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas.<br><br>Carlos Oswaldo Casimiro Fernandez<br> - Se diseñó la Landing Page, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, además de realizar las secciones que mencionan el propósito y alcance del proyecto.<br><br>TP1<br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se implementaron las vistas principales de la Aplicación web en Angular usando Angular Material.<br><br>Carlos Arian Ramirez Mendoza<br> - Documentamos el desarrollo del frontend realizado en Angular y desplegado en Firebase.<br><br>Carlos Oswaldo Casimiro<br> - Realicé mis vistas del frontend y las documenté en el informe respectivo.<br><br>Javier Sharvel Irigoyen Matos<br> - Se coordinó el trabajo de los equipos para asegurar la integración efectiva de las distintas partes del proyecto.<br><br>Oscar Sebastian Nicolas Moreno Carmona<br> - Implementé los formularios y la validación de datos en el frontend.<br><br>Marcelo Sebastian Neyra Santa Cruz<br> - Trabajé en la integración del backend con las vistas desarrolladas en Angular, asegurando la correcta comunicación entre ambos.<br><br>TB2<br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se tomaron en cuenta las observaciones del TB1 y se empezó con la implementación de la aplicación Web.<br><br>Carlos Arian Ramirez Mendoza<br> - Se ajustaron los diseños de la interfaz de usuario según las observaciones del equipo y se comenzó a trabajar en la funcionalidad del dashboard.<br><br>Carlos Oswaldo Casimiro<br> - Se corrigieron los errores identificados en la integración y se añadieron nuevas secciones informativas a la Landing Page.<br><br>Javier Sharvel Irigoyen Matos<br> - Se revisó y mejoró la documentación del proyecto, asegurando que todas las implementaciones estuvieran debidamente registradas.<br><br>Oscar Sebastian Nicolas Moreno Carmona<br> - Se trabajó en la optimización del rendimiento del frontend y en la mejora de la experiencia de usuario.<br><br>Marcelo Sebastian Neyra Santa Cruz<br> - Se realizó la implementación de la lógica del servidor para gestionar las nuevas funcionalidades requeridas en la aplicación web.| <strong>TB1</strong> <br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br> <strong>TP1</strong><br> Se empezo con la implementacion de la aplicacion web comenzando con las vistas principales en Angular <br><br> <strong>TB2</strong><br> El trabajo en equipo para completar las tareas establecidas para esta entrega y documentarlas correctamente en este informe, fue fundamental para tener una satisfacción grupal. |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> - Carlos Arian Ramirez Mendoza: <br> Se coordino en reunion con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista.<br><br> Carlos Oswaldo Casimiro Fernandez: <br> Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros. <br><br> Javier Sharvel Irigoyen Matos <br> - Pude comunicar mis ideas de soluciones, así como los enfoques del proyecto realizado.<br><br> Oscar Sebastian Nicolas Moreno Carmona <br><br> - Realizamos la reunión y definimos las tareas a realizar por el equipo. <br><br> Marcelo Sebastian Neyra Santa Cruz <br> - Realizamos una reunión, análizamos opciones para realizar el trabajo y definimos requerimientos. <br><br> <strong>TP1</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se tomaron en cuenta las observaciones del TB1 y se empezo con la implementacion de la aplicacion Web <br><br>Carlos Arian Ramirez Mendoza <br> - Definimos las vistas del frontend a realizar y la estructura del proyecto <br><br>Carlos Oswaldo Casimiro <br> - Realicé la parte del login y register del frontend de la web app <br><br> Javier Sharvel Irigoyen Matos <br> - Realicé parte de los requisitos funcionales de la app, asi como la parte de configuración. <br><br> Oscar Sebastian Nicolas Moreno Carmona <br> - Me encargué de el desarrollo del frontend del mapa interactivo de la aplicación. <br><br> Marcelo Sebastian Neyra Santa Cruz <br> - Realicé el desarrollo de la plataforma de conductores y empresas de transporte <br><br> <strong>TB2</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Realicé el bounded context de trip en el backend y se implemento los fake api en el app web<br><br>Carlos Arian Ramirez Mendoza <br>- Realicé el bounded context de payment en el backend y se implemento los fake api en el app web <br><br>Carlos Oswaldo Casimiro <br> - Aun estoy implementado un bounded context <br><br> Javier Sharvel Irigoyen Matos <br> - Realicé el bounded context de Promos en el backend y se implemento los fake api en el app web <br><br> Oscar Sebastian Nicolas Moreno Carmona <br> - Aun me queda pendiente realizar el backend de Buses<br><br> Marcelo Sebastian Neyra Santa Cruz <br> - Realicé el bounded context de profiles en el backend y se implemento los fake api en el app web <br><br> <strong>TF</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br>  Demostré habilidades para comunicar ideas y soluciones para el desarrollo del sprint 4. <br><br>Carlos Arian Ramirez Mendoza <br> Coordiné las reuniones del equipo, ayudando a definir el enfoque del proyecto para esta entrega del sprint 4. <br><br> Marcelo Sebastian Neyra Santa Cruz <br> Contribuí con ideas para clarificar los requerimientos necesarios para esta entrega del tf en el sprint 4. <br><br> Javier Sharvel Irigoyen Matos <br> Comuniqué efectivamente la solucion del bounded context de promos| <strong>TB1</strong><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> <strong>TP1</strong><br> Se corrigieron puntos clave para empezar con el desarrollo de la aplicacion web. <br><br> <strong>TB2</strong><br> La comunicación en el equipo fue diferenciador para lograr establecer lo que queríamos lograr en esta entrega. <br><br> <strong>TF</strong><br> La capacidad de nuestro equipo para comunicar sus ideas y resultados de manera efectiva fue fundamental para el éxito del proyecto. A través de reuniones regulares y la participación activa de los miembros, se logró una comprensión clara de los objetivos y se desarrollaron soluciones innovadoras que abordaron las necesidades del proyecto de manera eficiente.|
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se investigó de los principales competidores de nuestra aplicación. Además, se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br>Carlos Arian Ramirez Mendoza<br> - Se realizó el diseño de la Landing Page y Web Application, teniendo en cuenta los Style Guidelines para una mejor armonización de los diseños y poder dar a conocer el valor de TrackMyRoute.<br><br>Oscar Sebastian Moreno Carmona<br> - Se propusieron ideas para el desarrollo del proyecto, se investigaron posibles diseños, reglas para el desarrollo y también requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas.<br><br>Carlos Oswaldo Casimiro Fernandez<br> - Se diseñó la Landing Page, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, además de realizar las secciones que mencionan el propósito y alcance del proyecto.<br><br>TP1<br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se implementaron las vistas principales de la Aplicación web en Angular usando Angular Material.<br><br>Carlos Arian Ramirez Mendoza<br> - Documentamos el desarrollo del frontend realizado en Angular y desplegado en Firebase.<br><br>Carlos Oswaldo Casimiro<br> - Realicé mis vistas del frontend y las documenté en el informe respectivo.<br><br>Javier Sharvel Irigoyen Matos<br> - Se coordinó el trabajo de los equipos para asegurar la integración efectiva de las distintas partes del proyecto.<br><br>Oscar Sebastian Nicolas Moreno Carmona<br> - Implementé los formularios y la validación de datos en el frontend.<br><br>Marcelo Sebastian Neyra Santa Cruz<br> - Trabajé en la integración del backend con las vistas desarrolladas en Angular, asegurando la correcta comunicación entre ambos.<br><br>TB2<br><br>Mancilla Ordaya, Eduardo Vicente<br> - Se tomaron en cuenta las observaciones del TB1 y se empezó con la implementación de la aplicación Web.<br><br>Carlos Arian Ramirez Mendoza<br> - Se ajustaron los diseños de la interfaz de usuario según las observaciones del equipo y se comenzó a trabajar en la funcionalidad del dashboard.<br><br>Carlos Oswaldo Casimiro<br> - Se corrigieron los errores identificados en la integración y se añadieron nuevas secciones informativas a la Landing Page.<br><br>Javier Sharvel Irigoyen Matos<br> - Se revisó y mejoró la documentación del proyecto, asegurando que todas las implementaciones estuvieran debidamente registradas.<br><br>Oscar Sebastian Nicolas Moreno Carmona<br> - Se trabajó en la optimización del rendimiento del frontend y en la mejora de la experiencia de usuario.<br><br>Marcelo Sebastian Neyra Santa Cruz<br> - Se realizó la implementación de la lógica del servidor para gestionar las nuevas funcionalidades requeridas en la aplicación web. <br><br> <strong>TF</strong> <br><br>Mancilla Ordaya, Eduardo Vicente<br>  Documenté eficazmente el desarrollo del bounded context trip en el informe del trabajo final. <br><br>Carlos Arian Ramirez Mendoza <br> Documenté el bounded context de payment dentro del informe del trabajo final.<br><br> Marcelo Sebastian Neyra Santa Cruz <br> Documente el avance del tf, el sprint 4 en especifico el deployment. <br><br> Javier Sharvel Irigoyen Matos <br>  Documenté la integración de requisitos funcionales y la configuración del proyecto.| <strong>TB1</strong> <br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br> <strong>TP1</strong><br> Se empezo con la implementacion de la aplicacion web comenzando con las vistas principales en Angular <br><br> <strong>TB2</strong><br> El trabajo en equipo para completar las tareas establecidas para esta entrega y documentarlas correctamente en este informe, fue fundamental para tener una satisfacción grupal.<br><br> <strong>TF</strong><br> La documentación clara y detallada fue esencial para el desarrollo del proyecto en el informe final. La capacidad del equipo para investigar, diseñar y registrar las implementaciones aseguraron que todas las partes del proyecto estuvieran integradas y si bien se tienen alguno errores esperamos mejorarlos a futuro. |
 
 <br><br>
 
@@ -2075,15 +2098,12 @@ Link del backend de TrackMyRoute desplegado: http://40.71.173.200/swagger-ui/ind
 |:----|:----|:----|:----|:----|:----|:----|:----|
 |User Story| |Task| | | | | |
 |id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
-|HU25|Implementación de sistema de autenticación oauth|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Marcelo|Done|
-|HU26|Fix bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Eduardo|Done|
-|HU27|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Oscar|Done|
+|HU25|Implementación de sistema de autenticación oauth|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Marcelo|To Review|
+|HU26|Fix bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Eduardo|In Process|
+|HU27|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Oscar|In Process|
+|HU28|Fix bounded context Payment|T025|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Arian|In Process|
 
-En el cuarto Sprint, se implementaron el backend de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
-
-<img src="" alt="Trello" width="100%">
-
-Aqui podra encontrar la evidencia de Trello: 
+En el cuarto Sprint, se implementaron fixes en el backend de TrackMyRoute.
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 <p align="justify">A continuación se presentan informacion de los commits del backend del nuestro Aplicativo TrackMyRoute, con el uso de Spring Boot</p>
@@ -2101,28 +2121,21 @@ Aqui podra encontrar la evidencia de Trello:
     <td>feature/authentication</td>
     <td>643adf0</td>
     <td>feat(authentication): added authentication bc</td>
-    <td>04/06/2024</td>
+    <td>24/06/2024</td>
   </tr>
    <tr>
     <td>backend-track-my-route</td>
     <td>feature/payment</td>
     <td>6fc090f</td>
-    <td>feat(payment): added command services and post</td>
-    <td>06/06/2024</td>
-  </tr>
-  <tr>
-    <td>backend-track-my-route</td>
-    <td>feature/promo</td>
-    <td>55cb64a</td>
-    <td>feature:api rest- getAllPromos</td>
-    <td>04/06/2024</td>
+    <td>feat(payment): added fix</td>
+    <td>24/06/2024</td>
   </tr>
   <tr>
     <td>backend-track-my-route</td>
     <td>feature/trip</td>
     <td>9a8dcd3</td>
     <td>Fix(aggregate): errors/td>
-    <td>04/06/2024</td>
+    <td>24/06/2024</td>
   </tr>
   </table>
 
