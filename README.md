@@ -2198,9 +2198,16 @@ Link del backend de TrackMyRoute desplegado: http://40.71.173.200/swagger-ui/ind
 |HU25|Implementación de sistema de autenticación oauth|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Marcelo|To Review|
 |HU26|Fix bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Eduardo|In Process|
 |HU27|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Oscar|In Process|
-|HU28|Fix bounded context Payment|T025|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Arian|Done|
+|HU28| Bounded context Payment|T025|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Payment|4 hrs|Arian|In Process|
+|HU28| Bounded context Payment|T026|Arreglar errores de api|Arreglar metodos GET y POST de el endpoint de Payment|4 hrs|Arian|Done|
 
 En el cuarto Sprint, se implementaron fixes en el backend de TrackMyRoute.
+
+<div align="center">
+
+  <img src="./images/trello-sprint4.png">
+
+</div>
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 <p align="justify">A continuación se presentan informacion de los commits del backend del nuestro Aplicativo TrackMyRoute, con el uso de Spring Boot</p>
@@ -2220,11 +2227,25 @@ En el cuarto Sprint, se implementaron fixes en el backend de TrackMyRoute.
     <td>feat(authentication): added authentication bc</td>
     <td>24/06/2024</td>
   </tr>
+  <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/iam</td>
+    <td>344450f</td>
+    <td>fix(IAM): fixed issue that prevented authentication</td>
+    <td>24/06/2024</td>
+  </tr>
+  <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/iam</td>
+    <td>5e69dd0</td>
+    <td>feat(promo/payment): added get service</td>
+    <td>24/06/2024</td>
+  </tr>
    <tr>
     <td>backend-track-my-route</td>
-    <td>feature/payment</td>
-    <td>6fc090f</td>
-    <td>feat(payment): added fix</td>
+    <td>feature/payments</td>
+    <td>cc9b42b</td>
+    <td>feat(payment): get and post methods in endpoint</td>
     <td>24/06/2024</td>
   </tr>
   <tr>
@@ -2243,28 +2264,40 @@ En el cuarto Sprint, se implementaron fixes en el backend de TrackMyRoute.
 
 <div align="center">
 
-  <img src="/images/backen-test-1.png">
+  <img src="./images/backen-test-1.png">
 
 </div>
 
 <div align="center">
 
-  <img src="/images/backend-test-2.png">
+  <img src="./images/backend-test-2.png">
 
 </div>
+
+<div align="center">
+
+  <img src="./images/payment-test.png">
+
+</div>
+<div align="center">
+
+  <img src="./images/payment-test2.png">
+
+</div>
+
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 <div align="center">
 
-  <img src="/images/evidence-sprint3.PNG">
+  <img src="/images/evidence1-sprint4.PNG">
 
 </div>
 
 <div align="center">
 
-  <img src="/images/evidence2-sprint3.PNG">
+  <img src="/images/evidence-sprint4.PNG">
 
 </div>
 
@@ -2281,22 +2314,29 @@ Link del backend desplegado: http://40.71.173.200/swagger-ui/index.html
   <tr>
     <td>Profile</td>
     <td>/api/v1/profiles</td>
-    <td><img src="/images/swagger-payment.PNG"></td>
+    <td><img src="./images/swagger-profiles.PNG"></td>
+    
   </tr>
    <tr>
     <td>Trip</td>
     <td>/api/v1/trips</td>
-    <td><img src="/images/swagger-profiles.PNG"></td>
+    <td><img src="./images/swagger-trips.PNG"></td>
+    
   </tr>
   <tr>
     <td>Payment</td>
     <td>/api/v1/payments</td>
-    <td><img src="/images/swagger-promo.PNG"></td>
+    <td><img src="./images/payments-sprint4.PNG"></td>
+  </tr>
+  <tr>
+    <td>Buses</td>
+    <td>/api/v1/buses</td>
+    <td><img src="./images/buses-sprint4.PNG"></td>
   </tr>
   <tr>
     <td>Promo</td>
     <td>/api/v1/promos</td>
-    <td><img src="/images/swagger-trips.PNG"></td>
+    <td><img src="./images/swagger-promo.PNG"></td>
   </tr>
   </table>
 
@@ -2385,8 +2425,8 @@ Link del backend de TrackMyRoute desplegado: http://40.71.173.200/swagger-ui/ind
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-<img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
-<img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
+<img src="./images/sprint-4-insight1.png" alt="Spring3.0Evidence" width="100%">
+<img src="./images/sprint-4-insight2.png" alt="Spring4.0Evidence" width="100%">
 
 
 ## 5.3. Validation Interviews
