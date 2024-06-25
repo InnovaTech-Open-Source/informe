@@ -2649,7 +2649,10 @@ En el proyecto de TrackMyRoute, utilizamos Angular para el frontend y Spring Boo
 
 - _**Link Video de Exposición TP:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EVg35AsuKKVKizTBgd5MGjsBvZAI3PD3kz0kYLiLpl8IUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Dq9Wvu
 
-- _**Link Video de Exposición TB2:**_
+- _**Link Video de Exposición TB2:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EdaL5TW-Er5NkuFdENrTdyQBT00v3RzuNXdR9i70izK1OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GdA1P1
+  
+- _**Link Video TF:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EU6IKdPMUyxBi7cIvldqT5MBPcHzLbnH1l0V-cfxwT_Zqg?e=SFTcEg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  
 - _**Link Video About the Product:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EYB9dOyBOjZPrXPE8ihuBxYBEHbQYQNuAT44BXUP8WqA1Q?e=wkhti3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 - _**Link Video About the Team:**_ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020108_upc_edu_pe/EYoSxisVi41LrFhePgvRiL4Bd49K1WQ2DWWZn1icZIjOfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yGg8Tr
